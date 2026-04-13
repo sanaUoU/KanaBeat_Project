@@ -1,0 +1,6405 @@
+{
+    "song_name": "「なんでもないや」",
+    "slices": [
+        {
+            "id": "001",
+            "kana": "ふ",
+            "start_time": 0.97,
+            "end_time": 1.09,
+            "duration": 0.12,
+            "audio_file": "001_ふ.wav"
+        },
+        {
+            "id": "002",
+            "kana": "た",
+            "start_time": 1.09,
+            "end_time": 1.3,
+            "duration": 0.21,
+            "audio_file": "002_た.wav"
+        },
+        {
+            "id": "003",
+            "kana": "り",
+            "start_time": 1.3,
+            "end_time": 1.46,
+            "duration": 0.16,
+            "audio_file": "003_り.wav"
+        },
+        {
+            "id": "004",
+            "kana": "の",
+            "start_time": 1.46,
+            "end_time": 2.15,
+            "duration": 0.69,
+            "audio_file": "004_の.wav"
+        },
+        {
+            "id": "005",
+            "kana": "あ",
+            "start_time": 2.15,
+            "end_time": 2.22,
+            "duration": 0.07,
+            "audio_file": "005_あ.wav"
+        },
+        {
+            "id": "006",
+            "kana": "い",
+            "start_time": 2.22,
+            "end_time": 2.36,
+            "duration": 0.14,
+            "audio_file": "006_い.wav"
+        },
+        {
+            "id": "007",
+            "kana": "だ",
+            "start_time": 2.36,
+            "end_time": 2.97,
+            "duration": 0.61,
+            "audio_file": "007_だ.wav"
+        },
+        {
+            "id": "008",
+            "kana": "と",
+            "start_time": 2.97,
+            "end_time": 3.54,
+            "duration": 0.57,
+            "audio_file": "008_と.wav"
+        },
+        {
+            "id": "009",
+            "kana": "お",
+            "start_time": 3.54,
+            "end_time": 3.6,
+            "duration": 0.06,
+            "audio_file": "009_お.wav"
+        },
+        {
+            "id": "010",
+            "kana": "り",
+            "start_time": 3.6,
+            "end_time": 3.83,
+            "duration": 0.23,
+            "audio_file": "010_り.wav"
+        },
+        {
+            "id": "011",
+            "kana": "す",
+            "start_time": 3.83,
+            "end_time": 4.14,
+            "duration": 0.31,
+            "audio_file": "011_す.wav"
+        },
+        {
+            "id": "012",
+            "kana": "ぎ",
+            "start_time": 4.14,
+            "end_time": 4.28,
+            "duration": 0.14,
+            "audio_file": "012_ぎ.wav"
+        },
+        {
+            "id": "013",
+            "kana": "た",
+            "start_time": 4.28,
+            "end_time": 4.64,
+            "duration": 0.36,
+            "audio_file": "013_た.wav"
+        },
+        {
+            "id": "014",
+            "kana": "か",
+            "start_time": 4.64,
+            "end_time": 4.98,
+            "duration": 0.34,
+            "audio_file": "014_か.wav"
+        },
+        {
+            "id": "015",
+            "kana": "ぜ",
+            "start_time": 4.98,
+            "end_time": 5.65,
+            "duration": 0.67,
+            "audio_file": "015_ぜ.wav"
+        },
+        {
+            "id": "016",
+            "kana": "は",
+            "start_time": 5.65,
+            "end_time": 6.01,
+            "duration": 0.36,
+            "audio_file": "016_は.wav"
+        },
+        {
+            "id": "017",
+            "kana": "ど",
+            "start_time": 6.82,
+            "end_time": 6.94,
+            "duration": 0.12,
+            "audio_file": "017_ど.wav"
+        },
+        {
+            "id": "018",
+            "kana": "こ",
+            "start_time": 6.94,
+            "end_time": 7.13,
+            "duration": 0.19,
+            "audio_file": "018_こ.wav"
+        },
+        {
+            "id": "019",
+            "kana": "か",
+            "start_time": 7.13,
+            "end_time": 7.54,
+            "duration": 0.41,
+            "audio_file": "019_か.wav"
+        },
+        {
+            "id": "020",
+            "kana": "ら",
+            "start_time": 7.57,
+            "end_time": 7.8,
+            "duration": 0.23,
+            "audio_file": "020_ら.wav"
+        },
+        {
+            "id": "021",
+            "kana": "さ",
+            "start_time": 7.8,
+            "end_time": 8.07,
+            "duration": 0.27,
+            "audio_file": "021_さ.wav"
+        },
+        {
+            "id": "022",
+            "kana": "び",
+            "start_time": 8.07,
+            "end_time": 8.5,
+            "duration": 0.43,
+            "audio_file": "022_び.wav"
+        },
+        {
+            "id": "023",
+            "kana": "し",
+            "start_time": 8.5,
+            "end_time": 8.64,
+            "duration": 0.14,
+            "audio_file": "023_し.wav"
+        },
+        {
+            "id": "024",
+            "kana": "さ",
+            "start_time": 8.64,
+            "end_time": 8.82,
+            "duration": 0.18,
+            "audio_file": "024_さ.wav"
+        },
+        {
+            "id": "025",
+            "kana": "を",
+            "start_time": 8.82,
+            "end_time": 9.01,
+            "duration": 0.19,
+            "audio_file": "025_を.wav"
+        },
+        {
+            "id": "026",
+            "kana": "は",
+            "start_time": 9.01,
+            "end_time": 9.08,
+            "duration": 0.07,
+            "audio_file": "026_は.wav"
+        },
+        {
+            "id": "027",
+            "kana": "こ",
+            "start_time": 9.52,
+            "end_time": 9.9,
+            "duration": 0.38,
+            "audio_file": "027_こ.wav"
+        },
+        {
+            "id": "028",
+            "kana": "ん",
+            "start_time": 9.9,
+            "end_time": 10.04,
+            "duration": 0.14,
+            "audio_file": "028_ん.wav"
+        },
+        {
+            "id": "029",
+            "kana": "で",
+            "start_time": 10.04,
+            "end_time": 10.16,
+            "duration": 0.12,
+            "audio_file": "029_で.wav"
+        },
+        {
+            "id": "030",
+            "kana": "き",
+            "start_time": 10.16,
+            "end_time": 10.67,
+            "duration": 0.51,
+            "audio_file": "030_き.wav"
+        },
+        {
+            "id": "031",
+            "kana": "た",
+            "start_time": 10.67,
+            "end_time": 10.92,
+            "duration": 0.25,
+            "audio_file": "031_た.wav"
+        },
+        {
+            "id": "032",
+            "kana": "の",
+            "start_time": 10.92,
+            "end_time": 11.34,
+            "duration": 0.42,
+            "audio_file": "032_の.wav"
+        },
+        {
+            "id": "033",
+            "kana": "な",
+            "start_time": 12.46,
+            "end_time": 12.72,
+            "duration": 0.26,
+            "audio_file": "033_な.wav"
+        },
+        {
+            "id": "034",
+            "kana": "い",
+            "start_time": 12.72,
+            "end_time": 12.85,
+            "duration": 0.13,
+            "audio_file": "034_い.wav"
+        },
+        {
+            "id": "035",
+            "kana": "た",
+            "start_time": 12.85,
+            "end_time": 13.26,
+            "duration": 0.41,
+            "audio_file": "035_た.wav"
+        },
+        {
+            "id": "036",
+            "kana": "り",
+            "start_time": 13.26,
+            "end_time": 13.62,
+            "duration": 0.36,
+            "audio_file": "036_り.wav"
+        },
+        {
+            "id": "037",
+            "kana": "し",
+            "start_time": 13.62,
+            "end_time": 13.84,
+            "duration": 0.22,
+            "audio_file": "037_し.wav"
+        },
+        {
+            "id": "038",
+            "kana": "た",
+            "start_time": 13.84,
+            "end_time": 14.37,
+            "duration": 0.53,
+            "audio_file": "038_た.wav"
+        },
+        {
+            "id": "039",
+            "kana": "そ",
+            "start_time": 14.37,
+            "end_time": 15.02,
+            "duration": 0.65,
+            "audio_file": "039_そ.wav"
+        },
+        {
+            "id": "040",
+            "kana": "の",
+            "start_time": 15.02,
+            "end_time": 15.5,
+            "duration": 0.48,
+            "audio_file": "040_の.wav"
+        },
+        {
+            "id": "041",
+            "kana": "あ",
+            "start_time": 15.5,
+            "end_time": 15.57,
+            "duration": 0.07,
+            "audio_file": "041_あ.wav"
+        },
+        {
+            "id": "042",
+            "kana": "と",
+            "start_time": 15.57,
+            "end_time": 15.77,
+            "duration": 0.2,
+            "audio_file": "042_と.wav"
+        },
+        {
+            "id": "043",
+            "kana": "の",
+            "start_time": 15.77,
+            "end_time": 15.98,
+            "duration": 0.21,
+            "audio_file": "043_の.wav"
+        },
+        {
+            "id": "044",
+            "kana": "そ",
+            "start_time": 15.98,
+            "end_time": 16.44,
+            "duration": 0.46,
+            "audio_file": "044_そ.wav"
+        },
+        {
+            "id": "045",
+            "kana": "ら",
+            "start_time": 16.44,
+            "end_time": 16.65,
+            "duration": 0.21,
+            "audio_file": "045_ら.wav"
+        },
+        {
+            "id": "046",
+            "kana": "は",
+            "start_time": 16.65,
+            "end_time": 17.42,
+            "duration": 0.77,
+            "audio_file": "046_は.wav"
+        },
+        {
+            "id": "047",
+            "kana": "や",
+            "start_time": 18.26,
+            "end_time": 18.4,
+            "duration": 0.14,
+            "audio_file": "047_や.wav"
+        },
+        {
+            "id": "048",
+            "kana": "け",
+            "start_time": 18.4,
+            "end_time": 18.61,
+            "duration": 0.21,
+            "audio_file": "048_け.wav"
+        },
+        {
+            "id": "049",
+            "kana": "に",
+            "start_time": 18.61,
+            "end_time": 18.95,
+            "duration": 0.34,
+            "audio_file": "049_に.wav"
+        },
+        {
+            "id": "050",
+            "kana": "す",
+            "start_time": 18.95,
+            "end_time": 19.13,
+            "duration": 0.18,
+            "audio_file": "050_す.wav"
+        },
+        {
+            "id": "051",
+            "kana": "き",
+            "start_time": 19.13,
+            "end_time": 19.28,
+            "duration": 0.15,
+            "audio_file": "051_き.wav"
+        },
+        {
+            "id": "052",
+            "kana": "と",
+            "start_time": 19.28,
+            "end_time": 20.07,
+            "duration": 0.79,
+            "audio_file": "052_と.wav"
+        },
+        {
+            "id": "053",
+            "kana": "お",
+            "start_time": 20.07,
+            "end_time": 20.12,
+            "duration": 0.05,
+            "audio_file": "053_お.wav"
+        },
+        {
+            "id": "054",
+            "kana": "っ",
+            "start_time": 20.12,
+            "end_time": 20.23,
+            "duration": 0.11,
+            "audio_file": "054_っ.wav"
+        },
+        {
+            "id": "055",
+            "kana": "て",
+            "start_time": 20.23,
+            "end_time": 20.54,
+            "duration": 0.31,
+            "audio_file": "055_て.wav"
+        },
+        {
+            "id": "056",
+            "kana": "い",
+            "start_time": 20.78,
+            "end_time": 20.88,
+            "duration": 0.1,
+            "audio_file": "056_い.wav"
+        },
+        {
+            "id": "057",
+            "kana": "た",
+            "start_time": 20.88,
+            "end_time": 21.46,
+            "duration": 0.58,
+            "audio_file": "057_た.wav"
+        },
+        {
+            "id": "058",
+            "kana": "り",
+            "start_time": 21.46,
+            "end_time": 21.57,
+            "duration": 0.11,
+            "audio_file": "058_り.wav"
+        },
+        {
+            "id": "059",
+            "kana": "し",
+            "start_time": 21.57,
+            "end_time": 21.67,
+            "duration": 0.1,
+            "audio_file": "059_し.wav"
+        },
+        {
+            "id": "060",
+            "kana": "た",
+            "start_time": 21.67,
+            "end_time": 22.2,
+            "duration": 0.53,
+            "audio_file": "060_た.wav"
+        },
+        {
+            "id": "061",
+            "kana": "ん",
+            "start_time": 22.2,
+            "end_time": 22.36,
+            "duration": 0.16,
+            "audio_file": "061_ん.wav"
+        },
+        {
+            "id": "062",
+            "kana": "だ",
+            "start_time": 22.36,
+            "end_time": 23.15,
+            "duration": 0.79,
+            "audio_file": "062_だ.wav"
+        },
+        {
+            "id": "063",
+            "kana": "い",
+            "start_time": 35.4,
+            "end_time": 35.52,
+            "duration": 0.12,
+            "audio_file": "063_い.wav"
+        },
+        {
+            "id": "064",
+            "kana": "つ",
+            "start_time": 35.52,
+            "end_time": 35.72,
+            "duration": 0.2,
+            "audio_file": "064_つ.wav"
+        },
+        {
+            "id": "065",
+            "kana": "も",
+            "start_time": 35.72,
+            "end_time": 36.15,
+            "duration": 0.43,
+            "audio_file": "065_も.wav"
+        },
+        {
+            "id": "066",
+            "kana": "は",
+            "start_time": 36.15,
+            "end_time": 36.35,
+            "duration": 0.2,
+            "audio_file": "066_は.wav"
+        },
+        {
+            "id": "067",
+            "kana": "と",
+            "start_time": 36.35,
+            "end_time": 36.61,
+            "duration": 0.26,
+            "audio_file": "067_と.wav"
+        },
+        {
+            "id": "068",
+            "kana": "が",
+            "start_time": 36.61,
+            "end_time": 37.19,
+            "duration": 0.58,
+            "audio_file": "068_が.wav"
+        },
+        {
+            "id": "069",
+            "kana": "っ",
+            "start_time": 37.19,
+            "end_time": 37.36,
+            "duration": 0.17,
+            "audio_file": "069_っ.wav"
+        },
+        {
+            "id": "070",
+            "kana": "て",
+            "start_time": 37.36,
+            "end_time": 37.81,
+            "duration": 0.45,
+            "audio_file": "070_て.wav"
+        },
+        {
+            "id": "071",
+            "kana": "た",
+            "start_time": 37.81,
+            "end_time": 38.03,
+            "duration": 0.22,
+            "audio_file": "071_た.wav"
+        },
+        {
+            "id": "072",
+            "kana": "ち",
+            "start_time": 38.03,
+            "end_time": 38.2,
+            "duration": 0.17,
+            "audio_file": "072_ち.wav"
+        },
+        {
+            "id": "073",
+            "kana": "ち",
+            "start_time": 38.2,
+            "end_time": 38.44,
+            "duration": 0.24,
+            "audio_file": "073_ち.wav"
+        },
+        {
+            "id": "074",
+            "kana": "の",
+            "start_time": 38.44,
+            "end_time": 38.62,
+            "duration": 0.18,
+            "audio_file": "074_の.wav"
+        },
+        {
+            "id": "075",
+            "kana": "こ",
+            "start_time": 38.62,
+            "end_time": 38.92,
+            "duration": 0.3,
+            "audio_file": "075_こ.wav"
+        },
+        {
+            "id": "076",
+            "kana": "と",
+            "start_time": 38.92,
+            "end_time": 39.27,
+            "duration": 0.35,
+            "audio_file": "076_と.wav"
+        },
+        {
+            "id": "077",
+            "kana": "ば",
+            "start_time": 39.27,
+            "end_time": 39.54,
+            "duration": 0.27,
+            "audio_file": "077_ば.wav"
+        },
+        {
+            "id": "078",
+            "kana": "が",
+            "start_time": 39.54,
+            "end_time": 40.08,
+            "duration": 0.54,
+            "audio_file": "078_が.wav"
+        },
+        {
+            "id": "079",
+            "kana": "き",
+            "start_time": 41.1,
+            "end_time": 41.22,
+            "duration": 0.12,
+            "audio_file": "079_き.wav"
+        },
+        {
+            "id": "080",
+            "kana": "ょ",
+            "start_time": 41.22,
+            "end_time": 41.38,
+            "duration": 0.16,
+            "audio_file": "080_ょ.wav"
+        },
+        {
+            "id": "081",
+            "kana": "う",
+            "start_time": 41.38,
+            "end_time": 41.53,
+            "duration": 0.15,
+            "audio_file": "081_う.wav"
+        },
+        {
+            "id": "082",
+            "kana": "は",
+            "start_time": 41.53,
+            "end_time": 41.97,
+            "duration": 0.44,
+            "audio_file": "082_は.wav"
+        },
+        {
+            "id": "083",
+            "kana": "あ",
+            "start_time": 41.97,
+            "end_time": 42.04,
+            "duration": 0.07,
+            "audio_file": "083_あ.wav"
+        },
+        {
+            "id": "084",
+            "kana": "た",
+            "start_time": 42.04,
+            "end_time": 42.8,
+            "duration": 0.76,
+            "audio_file": "084_た.wav"
+        },
+        {
+            "id": "085",
+            "kana": "た",
+            "start_time": 42.8,
+            "end_time": 43.0,
+            "duration": 0.2,
+            "audio_file": "085_た.wav"
+        },
+        {
+            "id": "086",
+            "kana": "か",
+            "start_time": 43.0,
+            "end_time": 43.59,
+            "duration": 0.59,
+            "audio_file": "086_か.wav"
+        },
+        {
+            "id": "087",
+            "kana": "く",
+            "start_time": 43.62,
+            "end_time": 43.73,
+            "duration": 0.11,
+            "audio_file": "087_く.wav"
+        },
+        {
+            "id": "088",
+            "kana": "か",
+            "start_time": 43.73,
+            "end_time": 44.16,
+            "duration": 0.43,
+            "audio_file": "088_か.wav"
+        },
+        {
+            "id": "089",
+            "kana": "ん",
+            "start_time": 44.16,
+            "end_time": 44.29,
+            "duration": 0.13,
+            "audio_file": "089_ん.wav"
+        },
+        {
+            "id": "090",
+            "kana": "じ",
+            "start_time": 44.29,
+            "end_time": 44.47,
+            "duration": 0.18,
+            "audio_file": "090_じ.wav"
+        },
+        {
+            "id": "091",
+            "kana": "ま",
+            "start_time": 44.47,
+            "end_time": 44.97,
+            "duration": 0.5,
+            "audio_file": "091_ま.wav"
+        },
+        {
+            "id": "092",
+            "kana": "し",
+            "start_time": 45.0,
+            "end_time": 45.21,
+            "duration": 0.21,
+            "audio_file": "092_し.wav"
+        },
+        {
+            "id": "093",
+            "kana": "た",
+            "start_time": 45.21,
+            "end_time": 45.7,
+            "duration": 0.49,
+            "audio_file": "093_た.wav"
+        },
+        {
+            "id": "094",
+            "kana": "や",
+            "start_time": 46.65,
+            "end_time": 46.76,
+            "duration": 0.11,
+            "audio_file": "094_や.wav"
+        },
+        {
+            "id": "095",
+            "kana": "さ",
+            "start_time": 46.76,
+            "end_time": 46.96,
+            "duration": 0.2,
+            "audio_file": "095_さ.wav"
+        },
+        {
+            "id": "096",
+            "kana": "し",
+            "start_time": 46.96,
+            "end_time": 47.11,
+            "duration": 0.15,
+            "audio_file": "096_し.wav"
+        },
+        {
+            "id": "097",
+            "kana": "さ",
+            "start_time": 47.11,
+            "end_time": 47.49,
+            "duration": 0.38,
+            "audio_file": "097_さ.wav"
+        },
+        {
+            "id": "098",
+            "kana": "も",
+            "start_time": 47.49,
+            "end_time": 47.93,
+            "duration": 0.44,
+            "audio_file": "098_も.wav"
+        },
+        {
+            "id": "099",
+            "kana": "え",
+            "start_time": 47.93,
+            "end_time": 48.09,
+            "duration": 0.16,
+            "audio_file": "099_え.wav"
+        },
+        {
+            "id": "100",
+            "kana": "が",
+            "start_time": 48.09,
+            "end_time": 48.58,
+            "duration": 0.49,
+            "audio_file": "100_が.wav"
+        },
+        {
+            "id": "101",
+            "kana": "お",
+            "start_time": 48.58,
+            "end_time": 48.63,
+            "duration": 0.05,
+            "audio_file": "101_お.wav"
+        },
+        {
+            "id": "102",
+            "kana": "も",
+            "start_time": 48.63,
+            "end_time": 48.82,
+            "duration": 0.19,
+            "audio_file": "102_も.wav"
+        },
+        {
+            "id": "103",
+            "kana": "ゆ",
+            "start_time": 48.82,
+            "end_time": 49.35,
+            "duration": 0.53,
+            "audio_file": "103_ゆ.wav"
+        },
+        {
+            "id": "104",
+            "kana": "め",
+            "start_time": 49.35,
+            "end_time": 49.72,
+            "duration": 0.37,
+            "audio_file": "104_め.wav"
+        },
+        {
+            "id": "105",
+            "kana": "の",
+            "start_time": 49.72,
+            "end_time": 49.88,
+            "duration": 0.16,
+            "audio_file": "105_の.wav"
+        },
+        {
+            "id": "106",
+            "kana": "か",
+            "start_time": 49.88,
+            "end_time": 50.05,
+            "duration": 0.17,
+            "audio_file": "106_か.wav"
+        },
+        {
+            "id": "107",
+            "kana": "た",
+            "start_time": 50.05,
+            "end_time": 50.26,
+            "duration": 0.21,
+            "audio_file": "107_た.wav"
+        },
+        {
+            "id": "108",
+            "kana": "り",
+            "start_time": 50.26,
+            "end_time": 50.4,
+            "duration": 0.14,
+            "audio_file": "108_り.wav"
+        },
+        {
+            "id": "109",
+            "kana": "か",
+            "start_time": 50.4,
+            "end_time": 50.77,
+            "duration": 0.37,
+            "audio_file": "109_か.wav"
+        },
+        {
+            "id": "110",
+            "kana": "た",
+            "start_time": 50.77,
+            "end_time": 50.97,
+            "duration": 0.2,
+            "audio_file": "110_た.wav"
+        },
+        {
+            "id": "111",
+            "kana": "も",
+            "start_time": 50.97,
+            "end_time": 51.7,
+            "duration": 0.73,
+            "audio_file": "111_も.wav"
+        },
+        {
+            "id": "112",
+            "kana": "し",
+            "start_time": 52.45,
+            "end_time": 52.72,
+            "duration": 0.27,
+            "audio_file": "112_し.wav"
+        },
+        {
+            "id": "113",
+            "kana": "ら",
+            "start_time": 52.72,
+            "end_time": 52.9,
+            "duration": 0.18,
+            "audio_file": "113_ら.wav"
+        },
+        {
+            "id": "114",
+            "kana": "な",
+            "start_time": 52.9,
+            "end_time": 53.5,
+            "duration": 0.6,
+            "audio_file": "114_な.wav"
+        },
+        {
+            "id": "115",
+            "kana": "く",
+            "start_time": 53.53,
+            "end_time": 53.6,
+            "duration": 0.07,
+            "audio_file": "115_く.wav"
+        },
+        {
+            "id": "116",
+            "kana": "て",
+            "start_time": 53.6,
+            "end_time": 53.73,
+            "duration": 0.13,
+            "audio_file": "116_て.wav"
+        },
+        {
+            "id": "117",
+            "kana": "ぜ",
+            "start_time": 53.73,
+            "end_time": 54.22,
+            "duration": 0.49,
+            "audio_file": "117_ぜ.wav"
+        },
+        {
+            "id": "118",
+            "kana": "ん",
+            "start_time": 54.22,
+            "end_time": 54.35,
+            "duration": 0.13,
+            "audio_file": "118_ん.wav"
+        },
+        {
+            "id": "119",
+            "kana": "ぶ",
+            "start_time": 54.35,
+            "end_time": 54.49,
+            "duration": 0.14,
+            "audio_file": "119_ぶ.wav"
+        },
+        {
+            "id": "120",
+            "kana": "き",
+            "start_time": 54.49,
+            "end_time": 55.03,
+            "duration": 0.54,
+            "audio_file": "120_き.wav"
+        },
+        {
+            "id": "121",
+            "kana": "み",
+            "start_time": 55.06,
+            "end_time": 55.24,
+            "duration": 0.18,
+            "audio_file": "121_み.wav"
+        },
+        {
+            "id": "122",
+            "kana": "を",
+            "start_time": 55.24,
+            "end_time": 55.49,
+            "duration": 0.25,
+            "audio_file": "122_を.wav"
+        },
+        {
+            "id": "123",
+            "kana": "ま",
+            "start_time": 55.74,
+            "end_time": 55.96,
+            "duration": 0.22,
+            "audio_file": "123_ま.wav"
+        },
+        {
+            "id": "124",
+            "kana": "ね",
+            "start_time": 55.96,
+            "end_time": 56.38,
+            "duration": 0.42,
+            "audio_file": "124_ね.wav"
+        },
+        {
+            "id": "125",
+            "kana": "た",
+            "start_time": 56.38,
+            "end_time": 56.7,
+            "duration": 0.32,
+            "audio_file": "125_た.wav"
+        },
+        {
+            "id": "126",
+            "kana": "よ",
+            "start_time": 56.7,
+            "end_time": 57.16,
+            "duration": 0.46,
+            "audio_file": "126_よ.wav"
+        },
+        {
+            "id": "127",
+            "kana": "も",
+            "start_time": 57.83,
+            "end_time": 58.04,
+            "duration": 0.21,
+            "audio_file": "127_も.wav"
+        },
+        {
+            "id": "128",
+            "kana": "う",
+            "start_time": 58.04,
+            "end_time": 58.09,
+            "duration": 0.05,
+            "audio_file": "128_う.wav"
+        },
+        {
+            "id": "129",
+            "kana": "す",
+            "start_time": 58.09,
+            "end_time": 58.26,
+            "duration": 0.17,
+            "audio_file": "129_す.wav"
+        },
+        {
+            "id": "130",
+            "kana": "こ",
+            "start_time": 58.26,
+            "end_time": 58.46,
+            "duration": 0.2,
+            "audio_file": "130_こ.wav"
+        },
+        {
+            "id": "131",
+            "kana": "し",
+            "start_time": 58.46,
+            "end_time": 58.62,
+            "duration": 0.16,
+            "audio_file": "131_し.wav"
+        },
+        {
+            "id": "132",
+            "kana": "だ",
+            "start_time": 58.62,
+            "end_time": 58.78,
+            "duration": 0.16,
+            "audio_file": "132_だ.wav"
+        },
+        {
+            "id": "133",
+            "kana": "け",
+            "start_time": 58.78,
+            "end_time": 59.17,
+            "duration": 0.39,
+            "audio_file": "133_け.wav"
+        },
+        {
+            "id": "134",
+            "kana": "で",
+            "start_time": 59.17,
+            "end_time": 59.51,
+            "duration": 0.34,
+            "audio_file": "134_で.wav"
+        },
+        {
+            "id": "135",
+            "kana": "い",
+            "start_time": 59.51,
+            "end_time": 59.54,
+            "duration": 0.03,
+            "audio_file": "135_い.wav"
+        },
+        {
+            "id": "136",
+            "kana": "い",
+            "start_time": 59.54,
+            "end_time": 59.76,
+            "duration": 0.22,
+            "audio_file": "136_い.wav"
+        },
+        {
+            "id": "137",
+            "kana": "あ",
+            "start_time": 60.5,
+            "end_time": 60.54,
+            "duration": 0.04,
+            "audio_file": "137_あ.wav"
+        },
+        {
+            "id": "138",
+            "kana": "と",
+            "start_time": 60.54,
+            "end_time": 60.94,
+            "duration": 0.4,
+            "audio_file": "138_と.wav"
+        },
+        {
+            "id": "139",
+            "kana": "す",
+            "start_time": 60.94,
+            "end_time": 61.13,
+            "duration": 0.19,
+            "audio_file": "139_す.wav"
+        },
+        {
+            "id": "140",
+            "kana": "こ",
+            "start_time": 61.13,
+            "end_time": 61.35,
+            "duration": 0.22,
+            "audio_file": "140_こ.wav"
+        },
+        {
+            "id": "141",
+            "kana": "し",
+            "start_time": 61.35,
+            "end_time": 61.48,
+            "duration": 0.13,
+            "audio_file": "141_し.wav"
+        },
+        {
+            "id": "142",
+            "kana": "だ",
+            "start_time": 61.48,
+            "end_time": 61.64,
+            "duration": 0.16,
+            "audio_file": "142_だ.wav"
+        },
+        {
+            "id": "143",
+            "kana": "け",
+            "start_time": 61.64,
+            "end_time": 62.0,
+            "duration": 0.36,
+            "audio_file": "143_け.wav"
+        },
+        {
+            "id": "144",
+            "kana": "で",
+            "start_time": 62.0,
+            "end_time": 62.27,
+            "duration": 0.27,
+            "audio_file": "144_で.wav"
+        },
+        {
+            "id": "145",
+            "kana": "い",
+            "start_time": 62.27,
+            "end_time": 62.66,
+            "duration": 0.39,
+            "audio_file": "145_い.wav"
+        },
+        {
+            "id": "146",
+            "kana": "い",
+            "start_time": 62.66,
+            "end_time": 63.02,
+            "duration": 0.36,
+            "audio_file": "146_い.wav"
+        },
+        {
+            "id": "147",
+            "kana": "も",
+            "start_time": 63.58,
+            "end_time": 63.74,
+            "duration": 0.16,
+            "audio_file": "147_も.wav"
+        },
+        {
+            "id": "148",
+            "kana": "う",
+            "start_time": 63.74,
+            "end_time": 63.79,
+            "duration": 0.05,
+            "audio_file": "148_う.wav"
+        },
+        {
+            "id": "149",
+            "kana": "す",
+            "start_time": 63.79,
+            "end_time": 63.95,
+            "duration": 0.16,
+            "audio_file": "149_す.wav"
+        },
+        {
+            "id": "150",
+            "kana": "こ",
+            "start_time": 63.95,
+            "end_time": 64.18,
+            "duration": 0.23,
+            "audio_file": "150_こ.wav"
+        },
+        {
+            "id": "151",
+            "kana": "し",
+            "start_time": 64.18,
+            "end_time": 64.32,
+            "duration": 0.14,
+            "audio_file": "151_し.wav"
+        },
+        {
+            "id": "152",
+            "kana": "だ",
+            "start_time": 64.32,
+            "end_time": 64.48,
+            "duration": 0.16,
+            "audio_file": "152_だ.wav"
+        },
+        {
+            "id": "153",
+            "kana": "け",
+            "start_time": 64.48,
+            "end_time": 64.86,
+            "duration": 0.38,
+            "audio_file": "153_け.wav"
+        },
+        {
+            "id": "154",
+            "kana": "で",
+            "start_time": 64.86,
+            "end_time": 65.16,
+            "duration": 0.3,
+            "audio_file": "154_で.wav"
+        },
+        {
+            "id": "155",
+            "kana": "い",
+            "start_time": 65.16,
+            "end_time": 66.23,
+            "duration": 1.07,
+            "audio_file": "155_い.wav"
+        },
+        {
+            "id": "156",
+            "kana": "い",
+            "start_time": 66.66,
+            "end_time": 66.69,
+            "duration": 0.03,
+            "audio_file": "156_い.wav"
+        },
+        {
+            "id": "157",
+            "kana": "か",
+            "start_time": 66.69,
+            "end_time": 67.39,
+            "duration": 0.7,
+            "audio_file": "157_か.wav"
+        },
+        {
+            "id": "158",
+            "kana": "ら",
+            "start_time": 69.21,
+            "end_time": 69.27,
+            "duration": 0.06,
+            "audio_file": "158_ら.wav"
+        },
+        {
+            "id": "159",
+            "kana": "も",
+            "start_time": 69.27,
+            "end_time": 69.48,
+            "duration": 0.21,
+            "audio_file": "159_も.wav"
+        },
+        {
+            "id": "160",
+            "kana": "う",
+            "start_time": 69.48,
+            "end_time": 69.53,
+            "duration": 0.05,
+            "audio_file": "160_う.wav"
+        },
+        {
+            "id": "161",
+            "kana": "す",
+            "start_time": 69.53,
+            "end_time": 69.71,
+            "duration": 0.18,
+            "audio_file": "161_す.wav"
+        },
+        {
+            "id": "162",
+            "kana": "こ",
+            "start_time": 69.71,
+            "end_time": 69.9,
+            "duration": 0.19,
+            "audio_file": "162_こ.wav"
+        },
+        {
+            "id": "163",
+            "kana": "し",
+            "start_time": 69.9,
+            "end_time": 70.06,
+            "duration": 0.16,
+            "audio_file": "163_し.wav"
+        },
+        {
+            "id": "164",
+            "kana": "だ",
+            "start_time": 70.06,
+            "end_time": 70.2,
+            "duration": 0.14,
+            "audio_file": "164_だ.wav"
+        },
+        {
+            "id": "165",
+            "kana": "け",
+            "start_time": 70.2,
+            "end_time": 70.59,
+            "duration": 0.39,
+            "audio_file": "165_け.wav"
+        },
+        {
+            "id": "166",
+            "kana": "で",
+            "start_time": 70.59,
+            "end_time": 70.88,
+            "duration": 0.29,
+            "audio_file": "166_で.wav"
+        },
+        {
+            "id": "167",
+            "kana": "い",
+            "start_time": 70.88,
+            "end_time": 71.19,
+            "duration": 0.31,
+            "audio_file": "167_い.wav"
+        },
+        {
+            "id": "168",
+            "kana": "い",
+            "start_time": 71.19,
+            "end_time": 71.23,
+            "duration": 0.04,
+            "audio_file": "168_い.wav"
+        },
+        {
+            "id": "169",
+            "kana": "あ",
+            "start_time": 71.91,
+            "end_time": 71.94,
+            "duration": 0.03,
+            "audio_file": "169_あ.wav"
+        },
+        {
+            "id": "170",
+            "kana": "と",
+            "start_time": 71.94,
+            "end_time": 72.35,
+            "duration": 0.41,
+            "audio_file": "170_と.wav"
+        },
+        {
+            "id": "171",
+            "kana": "す",
+            "start_time": 72.35,
+            "end_time": 72.57,
+            "duration": 0.22,
+            "audio_file": "171_す.wav"
+        },
+        {
+            "id": "172",
+            "kana": "こ",
+            "start_time": 72.57,
+            "end_time": 72.78,
+            "duration": 0.21,
+            "audio_file": "172_こ.wav"
+        },
+        {
+            "id": "173",
+            "kana": "し",
+            "start_time": 72.78,
+            "end_time": 72.9,
+            "duration": 0.12,
+            "audio_file": "173_し.wav"
+        },
+        {
+            "id": "174",
+            "kana": "だ",
+            "start_time": 72.9,
+            "end_time": 73.09,
+            "duration": 0.19,
+            "audio_file": "174_だ.wav"
+        },
+        {
+            "id": "175",
+            "kana": "け",
+            "start_time": 73.09,
+            "end_time": 73.43,
+            "duration": 0.34,
+            "audio_file": "175_け.wav"
+        },
+        {
+            "id": "176",
+            "kana": "で",
+            "start_time": 73.43,
+            "end_time": 74.37,
+            "duration": 0.94,
+            "audio_file": "176_で.wav"
+        },
+        {
+            "id": "177",
+            "kana": "い",
+            "start_time": 74.37,
+            "end_time": 74.53,
+            "duration": 0.16,
+            "audio_file": "177_い.wav"
+        },
+        {
+            "id": "178",
+            "kana": "い",
+            "start_time": 74.92,
+            "end_time": 74.95,
+            "duration": 0.03,
+            "audio_file": "178_い.wav"
+        },
+        {
+            "id": "179",
+            "kana": "も",
+            "start_time": 74.95,
+            "end_time": 75.19,
+            "duration": 0.24,
+            "audio_file": "179_も.wav"
+        },
+        {
+            "id": "180",
+            "kana": "う",
+            "start_time": 75.19,
+            "end_time": 75.24,
+            "duration": 0.05,
+            "audio_file": "180_う.wav"
+        },
+        {
+            "id": "181",
+            "kana": "す",
+            "start_time": 75.24,
+            "end_time": 75.38,
+            "duration": 0.14,
+            "audio_file": "181_す.wav"
+        },
+        {
+            "id": "182",
+            "kana": "こ",
+            "start_time": 75.38,
+            "end_time": 75.6,
+            "duration": 0.22,
+            "audio_file": "182_こ.wav"
+        },
+        {
+            "id": "183",
+            "kana": "し",
+            "start_time": 75.6,
+            "end_time": 75.74,
+            "duration": 0.14,
+            "audio_file": "183_し.wav"
+        },
+        {
+            "id": "184",
+            "kana": "だ",
+            "start_time": 75.74,
+            "end_time": 75.9,
+            "duration": 0.16,
+            "audio_file": "184_だ.wav"
+        },
+        {
+            "id": "185",
+            "kana": "け",
+            "start_time": 75.9,
+            "end_time": 76.24,
+            "duration": 0.34,
+            "audio_file": "185_け.wav"
+        },
+        {
+            "id": "186",
+            "kana": "く",
+            "start_time": 76.47,
+            "end_time": 76.62,
+            "duration": 0.15,
+            "audio_file": "186_く.wav"
+        },
+        {
+            "id": "187",
+            "kana": "っ",
+            "start_time": 76.62,
+            "end_time": 76.66,
+            "duration": 0.04,
+            "audio_file": "187_っ.wav"
+        },
+        {
+            "id": "188",
+            "kana": "つ",
+            "start_time": 76.66,
+            "end_time": 77.03,
+            "duration": 0.37,
+            "audio_file": "188_つ.wav"
+        },
+        {
+            "id": "189",
+            "kana": "い",
+            "start_time": 77.03,
+            "end_time": 77.15,
+            "duration": 0.12,
+            "audio_file": "189_い.wav"
+        },
+        {
+            "id": "190",
+            "kana": "て",
+            "start_time": 77.15,
+            "end_time": 77.35,
+            "duration": 0.2,
+            "audio_file": "190_て.wav"
+        },
+        {
+            "id": "191",
+            "kana": "い",
+            "start_time": 77.35,
+            "end_time": 77.56,
+            "duration": 0.21,
+            "audio_file": "191_い.wav"
+        },
+        {
+            "id": "192",
+            "kana": "よ",
+            "start_time": 77.56,
+            "end_time": 77.79,
+            "duration": 0.23,
+            "audio_file": "192_よ.wav"
+        },
+        {
+            "id": "193",
+            "kana": "う",
+            "start_time": 77.79,
+            "end_time": 77.84,
+            "duration": 0.05,
+            "audio_file": "193_う.wav"
+        },
+        {
+            "id": "194",
+            "kana": "か",
+            "start_time": 77.84,
+            "end_time": 78.41,
+            "duration": 0.57,
+            "audio_file": "194_か.wav"
+        },
+        {
+            "id": "195",
+            "kana": "ぼ",
+            "start_time": 84.0,
+            "end_time": 84.12,
+            "duration": 0.12,
+            "audio_file": "195_ぼ.wav"
+        },
+        {
+            "id": "196",
+            "kana": "く",
+            "start_time": 84.12,
+            "end_time": 84.34,
+            "duration": 0.22,
+            "audio_file": "196_く.wav"
+        },
+        {
+            "id": "197",
+            "kana": "ら",
+            "start_time": 84.34,
+            "end_time": 84.62,
+            "duration": 0.28,
+            "audio_file": "197_ら.wav"
+        },
+        {
+            "id": "198",
+            "kana": "た",
+            "start_time": 84.62,
+            "end_time": 85.11,
+            "duration": 0.49,
+            "audio_file": "198_た.wav"
+        },
+        {
+            "id": "199",
+            "kana": "い",
+            "start_time": 85.11,
+            "end_time": 85.14,
+            "duration": 0.03,
+            "audio_file": "199_い.wav"
+        },
+        {
+            "id": "200",
+            "kana": "む",
+            "start_time": 85.14,
+            "end_time": 85.2,
+            "duration": 0.06,
+            "audio_file": "200_む.wav"
+        },
+        {
+            "id": "201",
+            "kana": "ふ",
+            "start_time": 85.2,
+            "end_time": 85.44,
+            "duration": 0.24,
+            "audio_file": "201_ふ.wav"
+        },
+        {
+            "id": "202",
+            "kana": "ら",
+            "start_time": 85.44,
+            "end_time": 85.63,
+            "duration": 0.19,
+            "audio_file": "202_ら.wav"
+        },
+        {
+            "id": "203",
+            "kana": "い",
+            "start_time": 85.63,
+            "end_time": 85.77,
+            "duration": 0.14,
+            "audio_file": "203_い.wav"
+        },
+        {
+            "id": "204",
+            "kana": "や",
+            "start_time": 85.77,
+            "end_time": 86.08,
+            "duration": 0.31,
+            "audio_file": "204_や.wav"
+        },
+        {
+            "id": "205",
+            "kana": "と",
+            "start_time": 86.12,
+            "end_time": 86.24,
+            "duration": 0.12,
+            "audio_file": "205_と.wav"
+        },
+        {
+            "id": "206",
+            "kana": "き",
+            "start_time": 86.24,
+            "end_time": 86.46,
+            "duration": 0.22,
+            "audio_file": "206_き.wav"
+        },
+        {
+            "id": "207",
+            "kana": "を",
+            "start_time": 86.46,
+            "end_time": 86.49,
+            "duration": 0.03,
+            "audio_file": "207_を.wav"
+        },
+        {
+            "id": "208",
+            "kana": "か",
+            "start_time": 86.49,
+            "end_time": 86.94,
+            "duration": 0.45,
+            "audio_file": "208_か.wav"
+        },
+        {
+            "id": "209",
+            "kana": "け",
+            "start_time": 87.33,
+            "end_time": 87.58,
+            "duration": 0.25,
+            "audio_file": "209_け.wav"
+        },
+        {
+            "id": "210",
+            "kana": "あ",
+            "start_time": 87.58,
+            "end_time": 87.87,
+            "duration": 0.29,
+            "audio_file": "210_あ.wav"
+        },
+        {
+            "id": "211",
+            "kana": "が",
+            "start_time": 87.87,
+            "end_time": 88.04,
+            "duration": 0.17,
+            "audio_file": "211_が.wav"
+        },
+        {
+            "id": "212",
+            "kana": "る",
+            "start_time": 88.04,
+            "end_time": 88.16,
+            "duration": 0.12,
+            "audio_file": "212_る.wav"
+        },
+        {
+            "id": "213",
+            "kana": "く",
+            "start_time": 88.16,
+            "end_time": 88.28,
+            "duration": 0.12,
+            "audio_file": "213_く.wav"
+        },
+        {
+            "id": "214",
+            "kana": "ら",
+            "start_time": 88.28,
+            "end_time": 88.51,
+            "duration": 0.23,
+            "audio_file": "214_ら.wav"
+        },
+        {
+            "id": "215",
+            "kana": "い",
+            "start_time": 88.51,
+            "end_time": 88.59,
+            "duration": 0.08,
+            "audio_file": "215_い.wav"
+        },
+        {
+            "id": "216",
+            "kana": "ま",
+            "start_time": 88.59,
+            "end_time": 88.92,
+            "duration": 0.33,
+            "audio_file": "216_ま.wav"
+        },
+        {
+            "id": "217",
+            "kana": "と",
+            "start_time": 88.92,
+            "end_time": 89.07,
+            "duration": 0.15,
+            "audio_file": "217_と.wav"
+        },
+        {
+            "id": "218",
+            "kana": "き",
+            "start_time": 89.07,
+            "end_time": 89.34,
+            "duration": 0.27,
+            "audio_file": "218_き.wav"
+        },
+        {
+            "id": "219",
+            "kana": "の",
+            "start_time": 89.34,
+            "end_time": 89.72,
+            "duration": 0.38,
+            "audio_file": "219_の.wav"
+        },
+        {
+            "id": "220",
+            "kana": "か",
+            "start_time": 90.02,
+            "end_time": 90.15,
+            "duration": 0.13,
+            "audio_file": "220_か.wav"
+        },
+        {
+            "id": "221",
+            "kana": "く",
+            "start_time": 90.15,
+            "end_time": 90.41,
+            "duration": 0.26,
+            "audio_file": "221_く.wav"
+        },
+        {
+            "id": "222",
+            "kana": "れ",
+            "start_time": 90.41,
+            "end_time": 90.81,
+            "duration": 0.4,
+            "audio_file": "222_れ.wav"
+        },
+        {
+            "id": "223",
+            "kana": "ん",
+            "start_time": 90.81,
+            "end_time": 90.93,
+            "duration": 0.12,
+            "audio_file": "223_ん.wav"
+        },
+        {
+            "id": "224",
+            "kana": "ぼ",
+            "start_time": 90.93,
+            "end_time": 91.08,
+            "duration": 0.15,
+            "audio_file": "224_ぼ.wav"
+        },
+        {
+            "id": "225",
+            "kana": "は",
+            "start_time": 91.08,
+            "end_time": 91.28,
+            "duration": 0.2,
+            "audio_file": "225_は.wav"
+        },
+        {
+            "id": "226",
+            "kana": "ぐ",
+            "start_time": 91.28,
+            "end_time": 91.48,
+            "duration": 0.2,
+            "audio_file": "226_ぐ.wav"
+        },
+        {
+            "id": "227",
+            "kana": "れ",
+            "start_time": 91.48,
+            "end_time": 92.17,
+            "duration": 0.69,
+            "audio_file": "227_れ.wav"
+        },
+        {
+            "id": "228",
+            "kana": "っ",
+            "start_time": 92.2,
+            "end_time": 92.23,
+            "duration": 0.03,
+            "audio_file": "228_っ.wav"
+        },
+        {
+            "id": "229",
+            "kana": "こ",
+            "start_time": 92.23,
+            "end_time": 92.76,
+            "duration": 0.53,
+            "audio_file": "229_こ.wav"
+        },
+        {
+            "id": "230",
+            "kana": "は",
+            "start_time": 93.55,
+            "end_time": 93.84,
+            "duration": 0.29,
+            "audio_file": "230_は.wav"
+        },
+        {
+            "id": "231",
+            "kana": "も",
+            "start_time": 93.84,
+            "end_time": 94.29,
+            "duration": 0.45,
+            "audio_file": "231_も.wav"
+        },
+        {
+            "id": "232",
+            "kana": "う",
+            "start_time": 94.29,
+            "end_time": 94.36,
+            "duration": 0.07,
+            "audio_file": "232_う.wav"
+        },
+        {
+            "id": "233",
+            "kana": "い",
+            "start_time": 94.36,
+            "end_time": 94.48,
+            "duration": 0.12,
+            "audio_file": "233_い.wav"
+        },
+        {
+            "id": "234",
+            "kana": "や",
+            "start_time": 94.48,
+            "end_time": 94.58,
+            "duration": 0.1,
+            "audio_file": "234_や.wav"
+        },
+        {
+            "id": "235",
+            "kana": "な",
+            "start_time": 94.58,
+            "end_time": 94.9,
+            "duration": 0.32,
+            "audio_file": "235_な.wav"
+        },
+        {
+            "id": "236",
+            "kana": "ん",
+            "start_time": 94.9,
+            "end_time": 95.04,
+            "duration": 0.14,
+            "audio_file": "236_ん.wav"
+        },
+        {
+            "id": "237",
+            "kana": "だ",
+            "start_time": 95.04,
+            "end_time": 95.74,
+            "duration": 0.7,
+            "audio_file": "237_だ.wav"
+        },
+        {
+            "id": "238",
+            "kana": "う",
+            "start_time": 95.77,
+            "end_time": 95.94,
+            "duration": 0.17,
+            "audio_file": "238_う.wav"
+        },
+        {
+            "id": "239",
+            "kana": "れ",
+            "start_time": 95.94,
+            "end_time": 96.08,
+            "duration": 0.14,
+            "audio_file": "239_れ.wav"
+        },
+        {
+            "id": "240",
+            "kana": "し",
+            "start_time": 96.08,
+            "end_time": 96.34,
+            "duration": 0.26,
+            "audio_file": "240_し.wav"
+        },
+        {
+            "id": "241",
+            "kana": "く",
+            "start_time": 96.34,
+            "end_time": 96.4,
+            "duration": 0.06,
+            "audio_file": "241_く.wav"
+        },
+        {
+            "id": "242",
+            "kana": "て",
+            "start_time": 96.4,
+            "end_time": 96.66,
+            "duration": 0.26,
+            "audio_file": "242_て.wav"
+        },
+        {
+            "id": "243",
+            "kana": "な",
+            "start_time": 96.66,
+            "end_time": 96.81,
+            "duration": 0.15,
+            "audio_file": "243_な.wav"
+        },
+        {
+            "id": "244",
+            "kana": "く",
+            "start_time": 96.81,
+            "end_time": 97.01,
+            "duration": 0.2,
+            "audio_file": "244_く.wav"
+        },
+        {
+            "id": "245",
+            "kana": "の",
+            "start_time": 97.01,
+            "end_time": 97.21,
+            "duration": 0.2,
+            "audio_file": "245_の.wav"
+        },
+        {
+            "id": "246",
+            "kana": "は",
+            "start_time": 97.21,
+            "end_time": 97.49,
+            "duration": 0.28,
+            "audio_file": "246_は.wav"
+        },
+        {
+            "id": "247",
+            "kana": "か",
+            "start_time": 97.49,
+            "end_time": 97.73,
+            "duration": 0.24,
+            "audio_file": "247_か.wav"
+        },
+        {
+            "id": "248",
+            "kana": "な",
+            "start_time": 97.73,
+            "end_time": 97.88,
+            "duration": 0.15,
+            "audio_file": "248_な.wav"
+        },
+        {
+            "id": "249",
+            "kana": "し",
+            "start_time": 97.88,
+            "end_time": 98.09,
+            "duration": 0.21,
+            "audio_file": "249_し.wav"
+        },
+        {
+            "id": "250",
+            "kana": "く",
+            "start_time": 98.09,
+            "end_time": 98.18,
+            "duration": 0.09,
+            "audio_file": "250_く.wav"
+        },
+        {
+            "id": "251",
+            "kana": "て",
+            "start_time": 98.18,
+            "end_time": 98.61,
+            "duration": 0.43,
+            "audio_file": "251_て.wav"
+        },
+        {
+            "id": "252",
+            "kana": "わ",
+            "start_time": 98.61,
+            "end_time": 98.82,
+            "duration": 0.21,
+            "audio_file": "252_わ.wav"
+        },
+        {
+            "id": "253",
+            "kana": "ら",
+            "start_time": 98.82,
+            "end_time": 99.03,
+            "duration": 0.21,
+            "audio_file": "253_ら.wav"
+        },
+        {
+            "id": "254",
+            "kana": "う",
+            "start_time": 99.03,
+            "end_time": 99.16,
+            "duration": 0.13,
+            "audio_file": "254_う.wav"
+        },
+        {
+            "id": "255",
+            "kana": "の",
+            "start_time": 99.16,
+            "end_time": 99.36,
+            "duration": 0.2,
+            "audio_file": "255_の.wav"
+        },
+        {
+            "id": "256",
+            "kana": "は",
+            "start_time": 99.36,
+            "end_time": 99.74,
+            "duration": 0.38,
+            "audio_file": "256_は.wav"
+        },
+        {
+            "id": "257",
+            "kana": "き",
+            "start_time": 100.03,
+            "end_time": 100.23,
+            "duration": 0.2,
+            "audio_file": "257_き.wav"
+        },
+        {
+            "id": "258",
+            "kana": "み",
+            "start_time": 100.23,
+            "end_time": 100.42,
+            "duration": 0.19,
+            "audio_file": "258_み.wav"
+        },
+        {
+            "id": "259",
+            "kana": "の",
+            "start_time": 100.42,
+            "end_time": 100.93,
+            "duration": 0.51,
+            "audio_file": "259_の.wav"
+        },
+        {
+            "id": "260",
+            "kana": "こ",
+            "start_time": 100.93,
+            "end_time": 101.09,
+            "duration": 0.16,
+            "audio_file": "260_こ.wav"
+        },
+        {
+            "id": "261",
+            "kana": "こ",
+            "start_time": 101.09,
+            "end_time": 101.32,
+            "duration": 0.23,
+            "audio_file": "261_こ.wav"
+        },
+        {
+            "id": "262",
+            "kana": "ろ",
+            "start_time": 101.32,
+            "end_time": 101.5,
+            "duration": 0.18,
+            "audio_file": "262_ろ.wav"
+        },
+        {
+            "id": "263",
+            "kana": "が",
+            "start_time": 101.5,
+            "end_time": 102.02,
+            "duration": 0.52,
+            "audio_file": "263_が.wav"
+        },
+        {
+            "id": "264",
+            "kana": "き",
+            "start_time": 102.05,
+            "end_time": 102.14,
+            "duration": 0.09,
+            "audio_file": "264_き.wav"
+        },
+        {
+            "id": "265",
+            "kana": "み",
+            "start_time": 102.14,
+            "end_time": 102.45,
+            "duration": 0.31,
+            "audio_file": "265_み.wav"
+        },
+        {
+            "id": "266",
+            "kana": "を",
+            "start_time": 102.45,
+            "end_time": 102.65,
+            "duration": 0.2,
+            "audio_file": "266_を.wav"
+        },
+        {
+            "id": "267",
+            "kana": "お",
+            "start_time": 102.65,
+            "end_time": 102.76,
+            "duration": 0.11,
+            "audio_file": "267_お.wav"
+        },
+        {
+            "id": "268",
+            "kana": "い",
+            "start_time": 102.76,
+            "end_time": 102.83,
+            "duration": 0.07,
+            "audio_file": "268_い.wav"
+        },
+        {
+            "id": "269",
+            "kana": "こ",
+            "start_time": 102.83,
+            "end_time": 103.09,
+            "duration": 0.26,
+            "audio_file": "269_こ.wav"
+        },
+        {
+            "id": "270",
+            "kana": "し",
+            "start_time": 103.09,
+            "end_time": 103.26,
+            "duration": 0.17,
+            "audio_file": "270_し.wav"
+        },
+        {
+            "id": "271",
+            "kana": "た",
+            "start_time": 103.26,
+            "end_time": 103.48,
+            "duration": 0.22,
+            "audio_file": "271_た.wav"
+        },
+        {
+            "id": "272",
+            "kana": "ん",
+            "start_time": 103.48,
+            "end_time": 103.63,
+            "duration": 0.15,
+            "audio_file": "272_ん.wav"
+        },
+        {
+            "id": "273",
+            "kana": "だ",
+            "start_time": 103.63,
+            "end_time": 104.15,
+            "duration": 0.52,
+            "audio_file": "273_だ.wav"
+        },
+        {
+            "id": "274",
+            "kana": "よ",
+            "start_time": 110.01,
+            "end_time": 110.07,
+            "duration": 0.06,
+            "audio_file": "274_よ.wav"
+        },
+        {
+            "id": "275",
+            "kana": "ほ",
+            "start_time": 126.64,
+            "end_time": 126.77,
+            "duration": 0.13,
+            "audio_file": "275_ほ.wav"
+        },
+        {
+            "id": "276",
+            "kana": "し",
+            "start_time": 126.77,
+            "end_time": 127.04,
+            "duration": 0.27,
+            "audio_file": "276_し.wav"
+        },
+        {
+            "id": "277",
+            "kana": "に",
+            "start_time": 127.04,
+            "end_time": 127.19,
+            "duration": 0.15,
+            "audio_file": "277_に.wav"
+        },
+        {
+            "id": "278",
+            "kana": "ま",
+            "start_time": 127.19,
+            "end_time": 127.57,
+            "duration": 0.38,
+            "audio_file": "278_ま.wav"
+        },
+        {
+            "id": "279",
+            "kana": "で",
+            "start_time": 127.6,
+            "end_time": 127.9,
+            "duration": 0.3,
+            "audio_file": "279_で.wav"
+        },
+        {
+            "id": "280",
+            "kana": "ね",
+            "start_time": 127.9,
+            "end_time": 128.08,
+            "duration": 0.18,
+            "audio_file": "280_ね.wav"
+        },
+        {
+            "id": "281",
+            "kana": "が",
+            "start_time": 128.08,
+            "end_time": 128.44,
+            "duration": 0.36,
+            "audio_file": "281_が.wav"
+        },
+        {
+            "id": "282",
+            "kana": "っ",
+            "start_time": 128.44,
+            "end_time": 128.5,
+            "duration": 0.06,
+            "audio_file": "282_っ.wav"
+        },
+        {
+            "id": "283",
+            "kana": "て",
+            "start_time": 128.5,
+            "end_time": 128.73,
+            "duration": 0.23,
+            "audio_file": "283_て.wav"
+        },
+        {
+            "id": "284",
+            "kana": "て",
+            "start_time": 128.73,
+            "end_time": 129.3,
+            "duration": 0.57,
+            "audio_file": "284_て.wav"
+        },
+        {
+            "id": "285",
+            "kana": "に",
+            "start_time": 129.3,
+            "end_time": 129.83,
+            "duration": 0.53,
+            "audio_file": "285_に.wav"
+        },
+        {
+            "id": "286",
+            "kana": "い",
+            "start_time": 129.83,
+            "end_time": 129.87,
+            "duration": 0.04,
+            "audio_file": "286_い.wav"
+        },
+        {
+            "id": "287",
+            "kana": "れ",
+            "start_time": 129.87,
+            "end_time": 130.02,
+            "duration": 0.15,
+            "audio_file": "287_れ.wav"
+        },
+        {
+            "id": "288",
+            "kana": "た",
+            "start_time": 130.02,
+            "end_time": 130.31,
+            "duration": 0.29,
+            "audio_file": "288_た.wav"
+        },
+        {
+            "id": "289",
+            "kana": "お",
+            "start_time": 130.31,
+            "end_time": 130.38,
+            "duration": 0.07,
+            "audio_file": "289_お.wav"
+        },
+        {
+            "id": "290",
+            "kana": "も",
+            "start_time": 130.38,
+            "end_time": 130.66,
+            "duration": 0.28,
+            "audio_file": "290_も.wav"
+        },
+        {
+            "id": "291",
+            "kana": "ちゃ",
+            "start_time": 130.66,
+            "end_time": 130.92,
+            "duration": 0.26,
+            "audio_file": "291_ちゃ.wav"
+        },
+        {
+            "id": "292",
+            "kana": "も",
+            "start_time": 130.92,
+            "end_time": 131.35,
+            "duration": 0.43,
+            "audio_file": "292_も.wav"
+        },
+        {
+            "id": "293",
+            "kana": "へ",
+            "start_time": 132.51,
+            "end_time": 132.69,
+            "duration": 0.18,
+            "audio_file": "293_へ.wav"
+        },
+        {
+            "id": "294",
+            "kana": "や",
+            "start_time": 132.69,
+            "end_time": 132.9,
+            "duration": 0.21,
+            "audio_file": "294_や.wav"
+        },
+        {
+            "id": "295",
+            "kana": "の",
+            "start_time": 132.9,
+            "end_time": 133.49,
+            "duration": 0.59,
+            "audio_file": "295_の.wav"
+        },
+        {
+            "id": "296",
+            "kana": "す",
+            "start_time": 133.49,
+            "end_time": 133.68,
+            "duration": 0.19,
+            "audio_file": "296_す.wav"
+        },
+        {
+            "id": "297",
+            "kana": "み",
+            "start_time": 133.68,
+            "end_time": 134.28,
+            "duration": 0.6,
+            "audio_file": "297_み.wav"
+        },
+        {
+            "id": "298",
+            "kana": "っ",
+            "start_time": 134.31,
+            "end_time": 134.34,
+            "duration": 0.03,
+            "audio_file": "298_っ.wav"
+        },
+        {
+            "id": "299",
+            "kana": "こ",
+            "start_time": 134.34,
+            "end_time": 134.49,
+            "duration": 0.15,
+            "audio_file": "299_こ.wav"
+        },
+        {
+            "id": "300",
+            "kana": "に",
+            "start_time": 134.49,
+            "end_time": 134.99,
+            "duration": 0.5,
+            "audio_file": "300_に.wav"
+        },
+        {
+            "id": "301",
+            "kana": "い",
+            "start_time": 134.99,
+            "end_time": 135.03,
+            "duration": 0.04,
+            "audio_file": "301_い.wav"
+        },
+        {
+            "id": "302",
+            "kana": "ま",
+            "start_time": 135.03,
+            "end_time": 135.19,
+            "duration": 0.16,
+            "audio_file": "302_ま.wav"
+        },
+        {
+            "id": "303",
+            "kana": "こ",
+            "start_time": 135.19,
+            "end_time": 135.77,
+            "duration": 0.58,
+            "audio_file": "303_こ.wav"
+        },
+        {
+            "id": "304",
+            "kana": "ろ",
+            "start_time": 135.8,
+            "end_time": 135.94,
+            "duration": 0.14,
+            "audio_file": "304_ろ.wav"
+        },
+        {
+            "id": "305",
+            "kana": "が",
+            "start_time": 135.94,
+            "end_time": 136.29,
+            "duration": 0.35,
+            "audio_file": "305_が.wav"
+        },
+        {
+            "id": "306",
+            "kana": "っ",
+            "start_time": 136.29,
+            "end_time": 136.5,
+            "duration": 0.21,
+            "audio_file": "306_っ.wav"
+        },
+        {
+            "id": "307",
+            "kana": "て",
+            "start_time": 136.5,
+            "end_time": 136.68,
+            "duration": 0.18,
+            "audio_file": "307_て.wav"
+        },
+        {
+            "id": "308",
+            "kana": "る",
+            "start_time": 136.68,
+            "end_time": 137.03,
+            "duration": 0.35,
+            "audio_file": "308_る.wav"
+        },
+        {
+            "id": "309",
+            "kana": "か",
+            "start_time": 138.07,
+            "end_time": 138.21,
+            "duration": 0.14,
+            "audio_file": "309_か.wav"
+        },
+        {
+            "id": "310",
+            "kana": "な",
+            "start_time": 138.26,
+            "end_time": 138.5,
+            "duration": 0.24,
+            "audio_file": "310_な.wav"
+        },
+        {
+            "id": "311",
+            "kana": "え",
+            "start_time": 138.5,
+            "end_time": 138.58,
+            "duration": 0.08,
+            "audio_file": "311_え.wav"
+        },
+        {
+            "id": "312",
+            "kana": "た",
+            "start_time": 138.58,
+            "end_time": 139.03,
+            "duration": 0.45,
+            "audio_file": "312_た.wav"
+        },
+        {
+            "id": "313",
+            "kana": "い",
+            "start_time": 139.03,
+            "end_time": 139.34,
+            "duration": 0.31,
+            "audio_file": "313_い.wav"
+        },
+        {
+            "id": "314",
+            "kana": "ゆ",
+            "start_time": 139.34,
+            "end_time": 139.47,
+            "duration": 0.13,
+            "audio_file": "314_ゆ.wav"
+        },
+        {
+            "id": "315",
+            "kana": "め",
+            "start_time": 139.47,
+            "end_time": 140.02,
+            "duration": 0.55,
+            "audio_file": "315_め.wav"
+        },
+        {
+            "id": "316",
+            "kana": "も",
+            "start_time": 140.02,
+            "end_time": 140.18,
+            "duration": 0.16,
+            "audio_file": "316_も.wav"
+        },
+        {
+            "id": "317",
+            "kana": "き",
+            "start_time": 140.18,
+            "end_time": 140.35,
+            "duration": 0.17,
+            "audio_file": "317_き.wav"
+        },
+        {
+            "id": "318",
+            "kana": "ょ",
+            "start_time": 140.35,
+            "end_time": 140.71,
+            "duration": 0.36,
+            "audio_file": "318_ょ.wav"
+        },
+        {
+            "id": "319",
+            "kana": "う",
+            "start_time": 140.71,
+            "end_time": 140.76,
+            "duration": 0.05,
+            "audio_file": "319_う.wav"
+        },
+        {
+            "id": "320",
+            "kana": "で",
+            "start_time": 140.76,
+            "end_time": 141.08,
+            "duration": 0.32,
+            "audio_file": "320_で.wav"
+        },
+        {
+            "id": "321",
+            "kana": "ひ",
+            "start_time": 141.08,
+            "end_time": 141.22,
+            "duration": 0.14,
+            "audio_file": "321_ひ.wav"
+        },
+        {
+            "id": "322",
+            "kana": "ゃ",
+            "start_time": 141.22,
+            "end_time": 141.36,
+            "duration": 0.14,
+            "audio_file": "322_ゃ.wav"
+        },
+        {
+            "id": "323",
+            "kana": "っ",
+            "start_time": 141.36,
+            "end_time": 141.48,
+            "duration": 0.12,
+            "audio_file": "323_っ.wav"
+        },
+        {
+            "id": "324",
+            "kana": "こ",
+            "start_time": 141.48,
+            "end_time": 141.82,
+            "duration": 0.34,
+            "audio_file": "324_こ.wav"
+        },
+        {
+            "id": "325",
+            "kana": "で",
+            "start_time": 141.82,
+            "end_time": 142.08,
+            "duration": 0.26,
+            "audio_file": "325_で.wav"
+        },
+        {
+            "id": "326",
+            "kana": "き",
+            "start_time": 142.11,
+            "end_time": 142.18,
+            "duration": 0.07,
+            "audio_file": "326_き.wav"
+        },
+        {
+            "id": "327",
+            "kana": "た",
+            "start_time": 142.18,
+            "end_time": 142.4,
+            "duration": 0.22,
+            "audio_file": "327_た.wav"
+        },
+        {
+            "id": "328",
+            "kana": "よ",
+            "start_time": 142.4,
+            "end_time": 142.69,
+            "duration": 0.29,
+            "audio_file": "328_よ.wav"
+        },
+        {
+            "id": "329",
+            "kana": "た",
+            "start_time": 143.97,
+            "end_time": 144.1,
+            "duration": 0.13,
+            "audio_file": "329_た.wav"
+        },
+        {
+            "id": "330",
+            "kana": "っ",
+            "start_time": 144.1,
+            "end_time": 144.17,
+            "duration": 0.07,
+            "audio_file": "330_っ.wav"
+        },
+        {
+            "id": "331",
+            "kana": "た",
+            "start_time": 144.17,
+            "end_time": 145.0,
+            "duration": 0.83,
+            "audio_file": "331_た.wav"
+        },
+        {
+            "id": "332",
+            "kana": "ひ",
+            "start_time": 145.0,
+            "end_time": 145.15,
+            "duration": 0.15,
+            "audio_file": "332_ひ.wav"
+        },
+        {
+            "id": "333",
+            "kana": "と",
+            "start_time": 145.15,
+            "end_time": 145.6,
+            "duration": 0.45,
+            "audio_file": "333_と.wav"
+        },
+        {
+            "id": "334",
+            "kana": "つ",
+            "start_time": 145.6,
+            "end_time": 145.78,
+            "duration": 0.18,
+            "audio_file": "334_つ.wav"
+        },
+        {
+            "id": "335",
+            "kana": "と",
+            "start_time": 145.78,
+            "end_time": 145.99,
+            "duration": 0.21,
+            "audio_file": "335_と.wav"
+        },
+        {
+            "id": "336",
+            "kana": "い",
+            "start_time": 145.99,
+            "end_time": 146.34,
+            "duration": 0.35,
+            "audio_file": "336_い.wav"
+        },
+        {
+            "id": "337",
+            "kana": "つ",
+            "start_time": 146.37,
+            "end_time": 146.51,
+            "duration": 0.14,
+            "audio_file": "337_つ.wav"
+        },
+        {
+            "id": "338",
+            "kana": "か",
+            "start_time": 146.51,
+            "end_time": 146.63,
+            "duration": 0.12,
+            "audio_file": "338_か.wav"
+        },
+        {
+            "id": "339",
+            "kana": "こ",
+            "start_time": 146.63,
+            "end_time": 147.22,
+            "duration": 0.59,
+            "audio_file": "339_こ.wav"
+        },
+        {
+            "id": "340",
+            "kana": "う",
+            "start_time": 147.22,
+            "end_time": 147.38,
+            "duration": 0.16,
+            "audio_file": "340_う.wav"
+        },
+        {
+            "id": "341",
+            "kana": "か",
+            "start_time": 147.38,
+            "end_time": 147.75,
+            "duration": 0.37,
+            "audio_file": "341_か.wav"
+        },
+        {
+            "id": "342",
+            "kana": "ん",
+            "start_time": 147.75,
+            "end_time": 147.84,
+            "duration": 0.09,
+            "audio_file": "342_ん.wav"
+        },
+        {
+            "id": "343",
+            "kana": "こ",
+            "start_time": 147.84,
+            "end_time": 148.01,
+            "duration": 0.17,
+            "audio_file": "343_こ.wav"
+        },
+        {
+            "id": "344",
+            "kana": "し",
+            "start_time": 148.01,
+            "end_time": 148.2,
+            "duration": 0.19,
+            "audio_file": "344_し.wav"
+        },
+        {
+            "id": "345",
+            "kana": "よ",
+            "start_time": 148.2,
+            "end_time": 148.82,
+            "duration": 0.62,
+            "audio_file": "345_よ.wav"
+        },
+        {
+            "id": "346",
+            "kana": "う",
+            "start_time": 148.82,
+            "end_time": 148.91,
+            "duration": 0.09,
+            "audio_file": "346_う.wav"
+        },
+        {
+            "id": "347",
+            "kana": "い",
+            "start_time": 155.4,
+            "end_time": 155.54,
+            "duration": 0.14,
+            "audio_file": "347_い.wav"
+        },
+        {
+            "id": "348",
+            "kana": "つ",
+            "start_time": 155.54,
+            "end_time": 155.72,
+            "duration": 0.18,
+            "audio_file": "348_つ.wav"
+        },
+        {
+            "id": "349",
+            "kana": "も",
+            "start_time": 155.72,
+            "end_time": 156.14,
+            "duration": 0.42,
+            "audio_file": "349_も.wav"
+        },
+        {
+            "id": "350",
+            "kana": "は",
+            "start_time": 156.14,
+            "end_time": 156.37,
+            "duration": 0.23,
+            "audio_file": "350_は.wav"
+        },
+        {
+            "id": "351",
+            "kana": "しゃ",
+            "start_time": 156.37,
+            "end_time": 156.64,
+            "duration": 0.27,
+            "audio_file": "351_しゃ.wav"
+        },
+        {
+            "id": "352",
+            "kana": "べ",
+            "start_time": 156.64,
+            "end_time": 157.21,
+            "duration": 0.57,
+            "audio_file": "352_べ.wav"
+        },
+        {
+            "id": "353",
+            "kana": "ら",
+            "start_time": 157.21,
+            "end_time": 157.37,
+            "duration": 0.16,
+            "audio_file": "353_ら.wav"
+        },
+        {
+            "id": "354",
+            "kana": "な",
+            "start_time": 157.37,
+            "end_time": 157.67,
+            "duration": 0.3,
+            "audio_file": "354_な.wav"
+        },
+        {
+            "id": "355",
+            "kana": "い",
+            "start_time": 157.67,
+            "end_time": 157.75,
+            "duration": 0.08,
+            "audio_file": "355_い.wav"
+        },
+        {
+            "id": "356",
+            "kana": "あ",
+            "start_time": 157.93,
+            "end_time": 158.26,
+            "duration": 0.33,
+            "audio_file": "356_あ.wav"
+        },
+        {
+            "id": "357",
+            "kana": "の",
+            "start_time": 158.26,
+            "end_time": 158.42,
+            "duration": 0.16,
+            "audio_file": "357_の.wav"
+        },
+        {
+            "id": "358",
+            "kana": "こ",
+            "start_time": 158.42,
+            "end_time": 158.65,
+            "duration": 0.23,
+            "audio_file": "358_こ.wav"
+        },
+        {
+            "id": "359",
+            "kana": "に",
+            "start_time": 158.65,
+            "end_time": 158.91,
+            "duration": 0.26,
+            "audio_file": "359_に.wav"
+        },
+        {
+            "id": "360",
+            "kana": "き",
+            "start_time": 158.91,
+            "end_time": 159.05,
+            "duration": 0.14,
+            "audio_file": "360_き.wav"
+        },
+        {
+            "id": "361",
+            "kana": "ょ",
+            "start_time": 159.05,
+            "end_time": 159.08,
+            "duration": 0.03,
+            "audio_file": "361_ょ.wav"
+        },
+        {
+            "id": "362",
+            "kana": "う",
+            "start_time": 159.08,
+            "end_time": 159.11,
+            "duration": 0.03,
+            "audio_file": "362_う.wav"
+        },
+        {
+            "id": "363",
+            "kana": "は",
+            "start_time": 159.11,
+            "end_time": 160.24,
+            "duration": 1.13,
+            "audio_file": "363_は.wav"
+        },
+        {
+            "id": "364",
+            "kana": "ほ",
+            "start_time": 161.06,
+            "end_time": 161.33,
+            "duration": 0.27,
+            "audio_file": "364_ほ.wav"
+        },
+        {
+            "id": "365",
+            "kana": "う",
+            "start_time": 161.33,
+            "end_time": 161.43,
+            "duration": 0.1,
+            "audio_file": "365_う.wav"
+        },
+        {
+            "id": "366",
+            "kana": "か",
+            "start_time": 161.43,
+            "end_time": 161.64,
+            "duration": 0.21,
+            "audio_file": "366_か.wav"
+        },
+        {
+            "id": "367",
+            "kana": "ご",
+            "start_time": 161.64,
+            "end_time": 162.1,
+            "duration": 0.46,
+            "audio_file": "367_ご.wav"
+        },
+        {
+            "id": "368",
+            "kana": "ま",
+            "start_time": 162.1,
+            "end_time": 162.3,
+            "duration": 0.2,
+            "audio_file": "368_ま.wav"
+        },
+        {
+            "id": "369",
+            "kana": "た",
+            "start_time": 162.3,
+            "end_time": 162.78,
+            "duration": 0.48,
+            "audio_file": "369_た.wav"
+        },
+        {
+            "id": "370",
+            "kana": "あ",
+            "start_time": 162.78,
+            "end_time": 162.83,
+            "duration": 0.05,
+            "audio_file": "370_あ.wav"
+        },
+        {
+            "id": "371",
+            "kana": "し",
+            "start_time": 162.83,
+            "end_time": 163.03,
+            "duration": 0.2,
+            "audio_file": "371_し.wav"
+        },
+        {
+            "id": "372",
+            "kana": "た",
+            "start_time": 163.03,
+            "end_time": 163.34,
+            "duration": 0.31,
+            "audio_file": "372_た.wav"
+        },
+        {
+            "id": "373",
+            "kana": "と",
+            "start_time": 163.34,
+            "end_time": 163.72,
+            "duration": 0.38,
+            "audio_file": "373_と.wav"
+        },
+        {
+            "id": "374",
+            "kana": "こ",
+            "start_time": 163.72,
+            "end_time": 164.15,
+            "duration": 0.43,
+            "audio_file": "374_こ.wav"
+        },
+        {
+            "id": "375",
+            "kana": "え",
+            "start_time": 164.15,
+            "end_time": 164.3,
+            "duration": 0.15,
+            "audio_file": "375_え.wav"
+        },
+        {
+            "id": "376",
+            "kana": "を",
+            "start_time": 164.3,
+            "end_time": 164.46,
+            "duration": 0.16,
+            "audio_file": "376_を.wav"
+        },
+        {
+            "id": "377",
+            "kana": "か",
+            "start_time": 164.46,
+            "end_time": 165.04,
+            "duration": 0.58,
+            "audio_file": "377_か.wav"
+        },
+        {
+            "id": "378",
+            "kana": "け",
+            "start_time": 165.07,
+            "end_time": 165.16,
+            "duration": 0.09,
+            "audio_file": "378_け.wav"
+        },
+        {
+            "id": "379",
+            "kana": "た",
+            "start_time": 165.16,
+            "end_time": 165.34,
+            "duration": 0.18,
+            "audio_file": "379_た.wav"
+        },
+        {
+            "id": "380",
+            "kana": "な",
+            "start_time": 165.34,
+            "end_time": 165.86,
+            "duration": 0.52,
+            "audio_file": "380_な.wav"
+        },
+        {
+            "id": "381",
+            "kana": "れ",
+            "start_time": 166.85,
+            "end_time": 167.01,
+            "duration": 0.16,
+            "audio_file": "381_れ.wav"
+        },
+        {
+            "id": "382",
+            "kana": "な",
+            "start_time": 167.01,
+            "end_time": 167.23,
+            "duration": 0.22,
+            "audio_file": "382_な.wav"
+        },
+        {
+            "id": "383",
+            "kana": "い",
+            "start_time": 167.23,
+            "end_time": 167.43,
+            "duration": 0.2,
+            "audio_file": "383_い.wav"
+        },
+        {
+            "id": "384",
+            "kana": "こ",
+            "start_time": 167.43,
+            "end_time": 167.76,
+            "duration": 0.33,
+            "audio_file": "384_こ.wav"
+        },
+        {
+            "id": "385",
+            "kana": "と",
+            "start_time": 167.76,
+            "end_time": 168.6,
+            "duration": 0.84,
+            "audio_file": "385_と.wav"
+        },
+        {
+            "id": "386",
+            "kana": "も",
+            "start_time": 168.6,
+            "end_time": 168.76,
+            "duration": 0.16,
+            "audio_file": "386_も.wav"
+        },
+        {
+            "id": "387",
+            "kana": "た",
+            "start_time": 168.76,
+            "end_time": 169.31,
+            "duration": 0.55,
+            "audio_file": "387_た.wav"
+        },
+        {
+            "id": "388",
+            "kana": "ま",
+            "start_time": 169.31,
+            "end_time": 169.68,
+            "duration": 0.37,
+            "audio_file": "388_ま.wav"
+        },
+        {
+            "id": "389",
+            "kana": "に",
+            "start_time": 169.68,
+            "end_time": 169.85,
+            "duration": 0.17,
+            "audio_file": "389_に.wav"
+        },
+        {
+            "id": "390",
+            "kana": "な",
+            "start_time": 169.85,
+            "end_time": 170.06,
+            "duration": 0.21,
+            "audio_file": "390_な.wav"
+        },
+        {
+            "id": "391",
+            "kana": "ら",
+            "start_time": 170.06,
+            "end_time": 170.28,
+            "duration": 0.22,
+            "audio_file": "391_ら.wav"
+        },
+        {
+            "id": "392",
+            "kana": "い",
+            "start_time": 170.46,
+            "end_time": 170.91,
+            "duration": 0.45,
+            "audio_file": "392_い.wav"
+        },
+        {
+            "id": "393",
+            "kana": "い",
+            "start_time": 170.91,
+            "end_time": 170.96,
+            "duration": 0.05,
+            "audio_file": "393_い.wav"
+        },
+        {
+            "id": "394",
+            "kana": "ね",
+            "start_time": 170.96,
+            "end_time": 171.88,
+            "duration": 0.92,
+            "audio_file": "394_ね.wav"
+        },
+        {
+            "id": "395",
+            "kana": "と",
+            "start_time": 172.55,
+            "end_time": 172.67,
+            "duration": 0.12,
+            "audio_file": "395_と.wav"
+        },
+        {
+            "id": "396",
+            "kana": "く",
+            "start_time": 172.67,
+            "end_time": 172.8,
+            "duration": 0.13,
+            "audio_file": "396_く.wav"
+        },
+        {
+            "id": "397",
+            "kana": "に",
+            "start_time": 172.8,
+            "end_time": 173.65,
+            "duration": 0.85,
+            "audio_file": "397_に.wav"
+        },
+        {
+            "id": "398",
+            "kana": "あ",
+            "start_time": 173.7,
+            "end_time": 173.73,
+            "duration": 0.03,
+            "audio_file": "398_あ.wav"
+        },
+        {
+            "id": "399",
+            "kana": "な",
+            "start_time": 173.73,
+            "end_time": 174.3,
+            "duration": 0.57,
+            "audio_file": "399_な.wav"
+        },
+        {
+            "id": "400",
+            "kana": "た",
+            "start_time": 174.33,
+            "end_time": 174.49,
+            "duration": 0.16,
+            "audio_file": "400_た.wav"
+        },
+        {
+            "id": "401",
+            "kana": "が",
+            "start_time": 174.49,
+            "end_time": 174.76,
+            "duration": 0.27,
+            "audio_file": "401_が.wav"
+        },
+        {
+            "id": "402",
+            "kana": "と",
+            "start_time": 175.05,
+            "end_time": 175.22,
+            "duration": 0.17,
+            "audio_file": "402_と.wav"
+        },
+        {
+            "id": "403",
+            "kana": "な",
+            "start_time": 175.22,
+            "end_time": 175.42,
+            "duration": 0.2,
+            "audio_file": "403_な.wav"
+        },
+        {
+            "id": "404",
+            "kana": "り",
+            "start_time": 175.42,
+            "end_time": 175.77,
+            "duration": 0.35,
+            "audio_file": "404_り.wav"
+        },
+        {
+            "id": "405",
+            "kana": "に",
+            "start_time": 175.77,
+            "end_time": 176.33,
+            "duration": 0.56,
+            "audio_file": "405_に.wav"
+        },
+        {
+            "id": "406",
+            "kana": "い",
+            "start_time": 176.33,
+            "end_time": 176.46,
+            "duration": 0.13,
+            "audio_file": "406_い.wav"
+        },
+        {
+            "id": "407",
+            "kana": "た",
+            "start_time": 176.46,
+            "end_time": 176.67,
+            "duration": 0.21,
+            "audio_file": "407_た.wav"
+        },
+        {
+            "id": "408",
+            "kana": "ら",
+            "start_time": 176.67,
+            "end_time": 177.18,
+            "duration": 0.51,
+            "audio_file": "408_ら.wav"
+        },
+        {
+            "id": "409",
+            "kana": "も",
+            "start_time": 177.88,
+            "end_time": 178.05,
+            "duration": 0.17,
+            "audio_file": "409_も.wav"
+        },
+        {
+            "id": "410",
+            "kana": "う",
+            "start_time": 178.05,
+            "end_time": 178.1,
+            "duration": 0.05,
+            "audio_file": "410_う.wav"
+        },
+        {
+            "id": "411",
+            "kana": "す",
+            "start_time": 178.1,
+            "end_time": 178.25,
+            "duration": 0.15,
+            "audio_file": "411_す.wav"
+        },
+        {
+            "id": "412",
+            "kana": "こ",
+            "start_time": 178.25,
+            "end_time": 178.48,
+            "duration": 0.23,
+            "audio_file": "412_こ.wav"
+        },
+        {
+            "id": "413",
+            "kana": "し",
+            "start_time": 178.48,
+            "end_time": 178.63,
+            "duration": 0.15,
+            "audio_file": "413_し.wav"
+        },
+        {
+            "id": "414",
+            "kana": "だ",
+            "start_time": 178.63,
+            "end_time": 178.77,
+            "duration": 0.14,
+            "audio_file": "414_だ.wav"
+        },
+        {
+            "id": "415",
+            "kana": "け",
+            "start_time": 178.77,
+            "end_time": 179.14,
+            "duration": 0.37,
+            "audio_file": "415_け.wav"
+        },
+        {
+            "id": "416",
+            "kana": "で",
+            "start_time": 179.14,
+            "end_time": 179.51,
+            "duration": 0.37,
+            "audio_file": "416_で.wav"
+        },
+        {
+            "id": "417",
+            "kana": "い",
+            "start_time": 179.51,
+            "end_time": 179.69,
+            "duration": 0.18,
+            "audio_file": "417_い.wav"
+        },
+        {
+            "id": "418",
+            "kana": "い",
+            "start_time": 179.69,
+            "end_time": 179.78,
+            "duration": 0.09,
+            "audio_file": "418_い.wav"
+        },
+        {
+            "id": "419",
+            "kana": "あ",
+            "start_time": 180.4,
+            "end_time": 180.5,
+            "duration": 0.1,
+            "audio_file": "419_あ.wav"
+        },
+        {
+            "id": "420",
+            "kana": "と",
+            "start_time": 180.5,
+            "end_time": 180.95,
+            "duration": 0.45,
+            "audio_file": "420_と.wav"
+        },
+        {
+            "id": "421",
+            "kana": "す",
+            "start_time": 180.95,
+            "end_time": 181.14,
+            "duration": 0.19,
+            "audio_file": "421_す.wav"
+        },
+        {
+            "id": "422",
+            "kana": "こ",
+            "start_time": 181.14,
+            "end_time": 181.33,
+            "duration": 0.19,
+            "audio_file": "422_こ.wav"
+        },
+        {
+            "id": "423",
+            "kana": "し",
+            "start_time": 181.33,
+            "end_time": 181.5,
+            "duration": 0.17,
+            "audio_file": "423_し.wav"
+        },
+        {
+            "id": "424",
+            "kana": "だ",
+            "start_time": 181.5,
+            "end_time": 181.63,
+            "duration": 0.13,
+            "audio_file": "424_だ.wav"
+        },
+        {
+            "id": "425",
+            "kana": "け",
+            "start_time": 181.63,
+            "end_time": 182.01,
+            "duration": 0.38,
+            "audio_file": "425_け.wav"
+        },
+        {
+            "id": "426",
+            "kana": "で",
+            "start_time": 182.01,
+            "end_time": 182.2,
+            "duration": 0.19,
+            "audio_file": "426_で.wav"
+        },
+        {
+            "id": "427",
+            "kana": "い",
+            "start_time": 182.2,
+            "end_time": 182.76,
+            "duration": 0.56,
+            "audio_file": "427_い.wav"
+        },
+        {
+            "id": "428",
+            "kana": "い",
+            "start_time": 182.76,
+            "end_time": 183.1,
+            "duration": 0.34,
+            "audio_file": "428_い.wav"
+        },
+        {
+            "id": "429",
+            "kana": "も",
+            "start_time": 183.54,
+            "end_time": 183.77,
+            "duration": 0.23,
+            "audio_file": "429_も.wav"
+        },
+        {
+            "id": "430",
+            "kana": "う",
+            "start_time": 183.77,
+            "end_time": 183.81,
+            "duration": 0.04,
+            "audio_file": "430_う.wav"
+        },
+        {
+            "id": "431",
+            "kana": "す",
+            "start_time": 183.81,
+            "end_time": 183.96,
+            "duration": 0.15,
+            "audio_file": "431_す.wav"
+        },
+        {
+            "id": "432",
+            "kana": "こ",
+            "start_time": 183.96,
+            "end_time": 184.17,
+            "duration": 0.21,
+            "audio_file": "432_こ.wav"
+        },
+        {
+            "id": "433",
+            "kana": "し",
+            "start_time": 184.17,
+            "end_time": 184.33,
+            "duration": 0.16,
+            "audio_file": "433_し.wav"
+        },
+        {
+            "id": "434",
+            "kana": "だ",
+            "start_time": 184.33,
+            "end_time": 184.45,
+            "duration": 0.12,
+            "audio_file": "434_だ.wav"
+        },
+        {
+            "id": "435",
+            "kana": "け",
+            "start_time": 184.45,
+            "end_time": 184.86,
+            "duration": 0.41,
+            "audio_file": "435_け.wav"
+        },
+        {
+            "id": "436",
+            "kana": "で",
+            "start_time": 184.86,
+            "end_time": 185.17,
+            "duration": 0.31,
+            "audio_file": "436_で.wav"
+        },
+        {
+            "id": "437",
+            "kana": "い",
+            "start_time": 185.17,
+            "end_time": 185.94,
+            "duration": 0.77,
+            "audio_file": "437_い.wav"
+        },
+        {
+            "id": "438",
+            "kana": "い",
+            "start_time": 186.46,
+            "end_time": 186.49,
+            "duration": 0.03,
+            "audio_file": "438_い.wav"
+        },
+        {
+            "id": "439",
+            "kana": "か",
+            "start_time": 186.49,
+            "end_time": 186.64,
+            "duration": 0.15,
+            "audio_file": "439_か.wav"
+        },
+        {
+            "id": "440",
+            "kana": "ら",
+            "start_time": 186.64,
+            "end_time": 187.35,
+            "duration": 0.71,
+            "audio_file": "440_ら.wav"
+        },
+        {
+            "id": "441",
+            "kana": "も",
+            "start_time": 189.23,
+            "end_time": 189.47,
+            "duration": 0.24,
+            "audio_file": "441_も.wav"
+        },
+        {
+            "id": "442",
+            "kana": "う",
+            "start_time": 189.47,
+            "end_time": 189.52,
+            "duration": 0.05,
+            "audio_file": "442_う.wav"
+        },
+        {
+            "id": "443",
+            "kana": "す",
+            "start_time": 189.52,
+            "end_time": 189.67,
+            "duration": 0.15,
+            "audio_file": "443_す.wav"
+        },
+        {
+            "id": "444",
+            "kana": "こ",
+            "start_time": 189.67,
+            "end_time": 189.91,
+            "duration": 0.24,
+            "audio_file": "444_こ.wav"
+        },
+        {
+            "id": "445",
+            "kana": "し",
+            "start_time": 189.91,
+            "end_time": 190.04,
+            "duration": 0.13,
+            "audio_file": "445_し.wav"
+        },
+        {
+            "id": "446",
+            "kana": "だ",
+            "start_time": 190.04,
+            "end_time": 190.2,
+            "duration": 0.16,
+            "audio_file": "446_だ.wav"
+        },
+        {
+            "id": "447",
+            "kana": "け",
+            "start_time": 190.2,
+            "end_time": 190.57,
+            "duration": 0.37,
+            "audio_file": "447_け.wav"
+        },
+        {
+            "id": "448",
+            "kana": "で",
+            "start_time": 190.57,
+            "end_time": 190.88,
+            "duration": 0.31,
+            "audio_file": "448_で.wav"
+        },
+        {
+            "id": "449",
+            "kana": "い",
+            "start_time": 190.88,
+            "end_time": 190.91,
+            "duration": 0.03,
+            "audio_file": "449_い.wav"
+        },
+        {
+            "id": "450",
+            "kana": "い",
+            "start_time": 190.91,
+            "end_time": 191.17,
+            "duration": 0.26,
+            "audio_file": "450_い.wav"
+        },
+        {
+            "id": "451",
+            "kana": "あ",
+            "start_time": 191.17,
+            "end_time": 191.2,
+            "duration": 0.03,
+            "audio_file": "451_あ.wav"
+        },
+        {
+            "id": "452",
+            "kana": "と",
+            "start_time": 192.04,
+            "end_time": 192.37,
+            "duration": 0.33,
+            "audio_file": "452_と.wav"
+        },
+        {
+            "id": "453",
+            "kana": "す",
+            "start_time": 192.37,
+            "end_time": 192.53,
+            "duration": 0.16,
+            "audio_file": "453_す.wav"
+        },
+        {
+            "id": "454",
+            "kana": "こ",
+            "start_time": 192.53,
+            "end_time": 192.78,
+            "duration": 0.25,
+            "audio_file": "454_こ.wav"
+        },
+        {
+            "id": "455",
+            "kana": "し",
+            "start_time": 192.78,
+            "end_time": 192.9,
+            "duration": 0.12,
+            "audio_file": "455_し.wav"
+        },
+        {
+            "id": "456",
+            "kana": "だ",
+            "start_time": 192.9,
+            "end_time": 193.09,
+            "duration": 0.19,
+            "audio_file": "456_だ.wav"
+        },
+        {
+            "id": "457",
+            "kana": "け",
+            "start_time": 193.09,
+            "end_time": 193.45,
+            "duration": 0.36,
+            "audio_file": "457_け.wav"
+        },
+        {
+            "id": "458",
+            "kana": "で",
+            "start_time": 193.45,
+            "end_time": 194.04,
+            "duration": 0.59,
+            "audio_file": "458_で.wav"
+        },
+        {
+            "id": "459",
+            "kana": "い",
+            "start_time": 194.04,
+            "end_time": 194.25,
+            "duration": 0.21,
+            "audio_file": "459_い.wav"
+        },
+        {
+            "id": "460",
+            "kana": "い",
+            "start_time": 194.95,
+            "end_time": 194.98,
+            "duration": 0.03,
+            "audio_file": "460_い.wav"
+        },
+        {
+            "id": "461",
+            "kana": "も",
+            "start_time": 194.98,
+            "end_time": 195.17,
+            "duration": 0.19,
+            "audio_file": "461_も.wav"
+        },
+        {
+            "id": "462",
+            "kana": "う",
+            "start_time": 195.17,
+            "end_time": 195.23,
+            "duration": 0.06,
+            "audio_file": "462_う.wav"
+        },
+        {
+            "id": "463",
+            "kana": "す",
+            "start_time": 195.23,
+            "end_time": 195.39,
+            "duration": 0.16,
+            "audio_file": "463_す.wav"
+        },
+        {
+            "id": "464",
+            "kana": "こ",
+            "start_time": 195.39,
+            "end_time": 195.63,
+            "duration": 0.24,
+            "audio_file": "464_こ.wav"
+        },
+        {
+            "id": "465",
+            "kana": "し",
+            "start_time": 195.63,
+            "end_time": 195.77,
+            "duration": 0.14,
+            "audio_file": "465_し.wav"
+        },
+        {
+            "id": "466",
+            "kana": "だ",
+            "start_time": 195.77,
+            "end_time": 195.93,
+            "duration": 0.16,
+            "audio_file": "466_だ.wav"
+        },
+        {
+            "id": "467",
+            "kana": "け",
+            "start_time": 195.93,
+            "end_time": 196.24,
+            "duration": 0.31,
+            "audio_file": "467_け.wav"
+        },
+        {
+            "id": "468",
+            "kana": "く",
+            "start_time": 196.24,
+            "end_time": 196.64,
+            "duration": 0.4,
+            "audio_file": "468_く.wav"
+        },
+        {
+            "id": "469",
+            "kana": "っ",
+            "start_time": 196.64,
+            "end_time": 196.68,
+            "duration": 0.04,
+            "audio_file": "469_っ.wav"
+        },
+        {
+            "id": "470",
+            "kana": "つ",
+            "start_time": 196.68,
+            "end_time": 197.04,
+            "duration": 0.36,
+            "audio_file": "470_つ.wav"
+        },
+        {
+            "id": "471",
+            "kana": "い",
+            "start_time": 197.04,
+            "end_time": 197.17,
+            "duration": 0.13,
+            "audio_file": "471_い.wav"
+        },
+        {
+            "id": "472",
+            "kana": "て",
+            "start_time": 197.17,
+            "end_time": 197.47,
+            "duration": 0.3,
+            "audio_file": "472_て.wav"
+        },
+        {
+            "id": "473",
+            "kana": "い",
+            "start_time": 197.47,
+            "end_time": 197.61,
+            "duration": 0.14,
+            "audio_file": "473_い.wav"
+        },
+        {
+            "id": "474",
+            "kana": "よ",
+            "start_time": 197.61,
+            "end_time": 197.89,
+            "duration": 0.28,
+            "audio_file": "474_よ.wav"
+        },
+        {
+            "id": "475",
+            "kana": "う",
+            "start_time": 197.89,
+            "end_time": 197.97,
+            "duration": 0.08,
+            "audio_file": "475_う.wav"
+        },
+        {
+            "id": "476",
+            "kana": "よ",
+            "start_time": 197.97,
+            "end_time": 198.78,
+            "duration": 0.81,
+            "audio_file": "476_よ.wav"
+        },
+        {
+            "id": "477",
+            "kana": "ぼ",
+            "start_time": 203.95,
+            "end_time": 204.09,
+            "duration": 0.14,
+            "audio_file": "477_ぼ.wav"
+        },
+        {
+            "id": "478",
+            "kana": "く",
+            "start_time": 204.09,
+            "end_time": 204.33,
+            "duration": 0.24,
+            "audio_file": "478_く.wav"
+        },
+        {
+            "id": "479",
+            "kana": "ら",
+            "start_time": 204.33,
+            "end_time": 204.63,
+            "duration": 0.3,
+            "audio_file": "479_ら.wav"
+        },
+        {
+            "id": "480",
+            "kana": "た",
+            "start_time": 204.69,
+            "end_time": 205.1,
+            "duration": 0.41,
+            "audio_file": "480_た.wav"
+        },
+        {
+            "id": "481",
+            "kana": "い",
+            "start_time": 205.1,
+            "end_time": 205.13,
+            "duration": 0.03,
+            "audio_file": "481_い.wav"
+        },
+        {
+            "id": "482",
+            "kana": "む",
+            "start_time": 205.13,
+            "end_time": 205.19,
+            "duration": 0.06,
+            "audio_file": "482_む.wav"
+        },
+        {
+            "id": "483",
+            "kana": "ふ",
+            "start_time": 205.19,
+            "end_time": 205.4,
+            "duration": 0.21,
+            "audio_file": "483_ふ.wav"
+        },
+        {
+            "id": "484",
+            "kana": "ら",
+            "start_time": 205.4,
+            "end_time": 205.62,
+            "duration": 0.22,
+            "audio_file": "484_ら.wav"
+        },
+        {
+            "id": "485",
+            "kana": "い",
+            "start_time": 205.62,
+            "end_time": 205.75,
+            "duration": 0.13,
+            "audio_file": "485_い.wav"
+        },
+        {
+            "id": "486",
+            "kana": "や",
+            "start_time": 205.75,
+            "end_time": 206.05,
+            "duration": 0.3,
+            "audio_file": "486_や.wav"
+        },
+        {
+            "id": "487",
+            "kana": "き",
+            "start_time": 206.05,
+            "end_time": 206.2,
+            "duration": 0.15,
+            "audio_file": "487_き.wav"
+        },
+        {
+            "id": "488",
+            "kana": "み",
+            "start_time": 206.2,
+            "end_time": 206.47,
+            "duration": 0.27,
+            "audio_file": "488_み.wav"
+        },
+        {
+            "id": "489",
+            "kana": "を",
+            "start_time": 206.47,
+            "end_time": 206.5,
+            "duration": 0.03,
+            "audio_file": "489_を.wav"
+        },
+        {
+            "id": "490",
+            "kana": "し",
+            "start_time": 207.03,
+            "end_time": 207.49,
+            "duration": 0.46,
+            "audio_file": "490_し.wav"
+        },
+        {
+            "id": "491",
+            "kana": "っ",
+            "start_time": 207.49,
+            "end_time": 207.52,
+            "duration": 0.03,
+            "audio_file": "491_っ.wav"
+        },
+        {
+            "id": "492",
+            "kana": "て",
+            "start_time": 207.52,
+            "end_time": 208.23,
+            "duration": 0.71,
+            "audio_file": "492_て.wav"
+        },
+        {
+            "id": "493",
+            "kana": "い",
+            "start_time": 208.26,
+            "end_time": 208.29,
+            "duration": 0.03,
+            "audio_file": "493_い.wav"
+        },
+        {
+            "id": "494",
+            "kana": "た",
+            "start_time": 208.29,
+            "end_time": 208.48,
+            "duration": 0.19,
+            "audio_file": "494_た.wav"
+        },
+        {
+            "id": "495",
+            "kana": "ん",
+            "start_time": 208.48,
+            "end_time": 208.61,
+            "duration": 0.13,
+            "audio_file": "495_ん.wav"
+        },
+        {
+            "id": "496",
+            "kana": "だ",
+            "start_time": 208.61,
+            "end_time": 208.91,
+            "duration": 0.3,
+            "audio_file": "496_だ.wav"
+        },
+        {
+            "id": "497",
+            "kana": "ぼ",
+            "start_time": 208.91,
+            "end_time": 209.07,
+            "duration": 0.16,
+            "audio_file": "497_ぼ.wav"
+        },
+        {
+            "id": "498",
+            "kana": "く",
+            "start_time": 209.07,
+            "end_time": 209.33,
+            "duration": 0.26,
+            "audio_file": "498_く.wav"
+        },
+        {
+            "id": "499",
+            "kana": "が",
+            "start_time": 209.33,
+            "end_time": 209.98,
+            "duration": 0.65,
+            "audio_file": "499_が.wav"
+        },
+        {
+            "id": "500",
+            "kana": "ぼ",
+            "start_time": 210.05,
+            "end_time": 210.16,
+            "duration": 0.11,
+            "audio_file": "500_ぼ.wav"
+        },
+        {
+            "id": "501",
+            "kana": "く",
+            "start_time": 210.16,
+            "end_time": 210.4,
+            "duration": 0.24,
+            "audio_file": "501_く.wav"
+        },
+        {
+            "id": "502",
+            "kana": "の",
+            "start_time": 210.4,
+            "end_time": 210.91,
+            "duration": 0.51,
+            "audio_file": "502_の.wav"
+        },
+        {
+            "id": "503",
+            "kana": "な",
+            "start_time": 210.91,
+            "end_time": 211.1,
+            "duration": 0.19,
+            "audio_file": "503_な.wav"
+        },
+        {
+            "id": "504",
+            "kana": "ま",
+            "start_time": 211.1,
+            "end_time": 211.41,
+            "duration": 0.31,
+            "audio_file": "504_ま.wav"
+        },
+        {
+            "id": "505",
+            "kana": "え",
+            "start_time": 211.41,
+            "end_time": 211.47,
+            "duration": 0.06,
+            "audio_file": "505_え.wav"
+        },
+        {
+            "id": "506",
+            "kana": "を",
+            "start_time": 211.47,
+            "end_time": 211.5,
+            "duration": 0.03,
+            "audio_file": "506_を.wav"
+        },
+        {
+            "id": "507",
+            "kana": "お",
+            "start_time": 212.19,
+            "end_time": 212.35,
+            "duration": 0.16,
+            "audio_file": "507_お.wav"
+        },
+        {
+            "id": "508",
+            "kana": "ぼ",
+            "start_time": 212.35,
+            "end_time": 212.58,
+            "duration": 0.23,
+            "audio_file": "508_ぼ.wav"
+        },
+        {
+            "id": "509",
+            "kana": "え",
+            "start_time": 212.58,
+            "end_time": 213.89,
+            "duration": 1.31,
+            "audio_file": "509_え.wav"
+        },
+        {
+            "id": "510",
+            "kana": "る",
+            "start_time": 213.89,
+            "end_time": 214.09,
+            "duration": 0.2,
+            "audio_file": "510_る.wav"
+        },
+        {
+            "id": "511",
+            "kana": "よ",
+            "start_time": 214.09,
+            "end_time": 214.15,
+            "duration": 0.06,
+            "audio_file": "511_よ.wav"
+        },
+        {
+            "id": "512",
+            "kana": "り",
+            "start_time": 215.76,
+            "end_time": 218.45,
+            "duration": 2.69,
+            "audio_file": "512_り.wav"
+        },
+        {
+            "id": "513",
+            "kana": "ず",
+            "start_time": 218.45,
+            "end_time": 218.51,
+            "duration": 0.06,
+            "audio_file": "513_ず.wav"
+        },
+        {
+            "id": "514",
+            "kana": "っ",
+            "start_time": 218.51,
+            "end_time": 218.54,
+            "duration": 0.03,
+            "audio_file": "514_っ.wav"
+        },
+        {
+            "id": "515",
+            "kana": "と",
+            "start_time": 219.67,
+            "end_time": 219.73,
+            "duration": 0.06,
+            "audio_file": "515_と.wav"
+        },
+        {
+            "id": "516",
+            "kana": "ま",
+            "start_time": 219.73,
+            "end_time": 219.79,
+            "duration": 0.06,
+            "audio_file": "516_ま.wav"
+        },
+        {
+            "id": "517",
+            "kana": "え",
+            "start_time": 220.51,
+            "end_time": 220.72,
+            "duration": 0.21,
+            "audio_file": "517_え.wav"
+        },
+        {
+            "id": "518",
+            "kana": "に",
+            "start_time": 221.88,
+            "end_time": 221.98,
+            "duration": 0.1,
+            "audio_file": "518_に.wav"
+        },
+        {
+            "id": "519",
+            "kana": "き",
+            "start_time": 221.98,
+            "end_time": 222.04,
+            "duration": 0.06,
+            "audio_file": "519_き.wav"
+        },
+        {
+            "id": "520",
+            "kana": "み",
+            "start_time": 222.04,
+            "end_time": 222.23,
+            "duration": 0.19,
+            "audio_file": "520_み.wav"
+        },
+        {
+            "id": "521",
+            "kana": "の",
+            "start_time": 222.23,
+            "end_time": 222.43,
+            "duration": 0.2,
+            "audio_file": "521_の.wav"
+        },
+        {
+            "id": "522",
+            "kana": "い",
+            "start_time": 222.43,
+            "end_time": 222.58,
+            "duration": 0.15,
+            "audio_file": "522_い.wav"
+        },
+        {
+            "id": "523",
+            "kana": "な",
+            "start_time": 222.58,
+            "end_time": 223.15,
+            "duration": 0.57,
+            "audio_file": "523_な.wav"
+        },
+        {
+            "id": "524",
+            "kana": "い",
+            "start_time": 223.15,
+            "end_time": 223.21,
+            "duration": 0.06,
+            "audio_file": "524_い.wav"
+        },
+        {
+            "id": "525",
+            "kana": "せ",
+            "start_time": 223.21,
+            "end_time": 223.43,
+            "duration": 0.22,
+            "audio_file": "525_せ.wav"
+        },
+        {
+            "id": "526",
+            "kana": "か",
+            "start_time": 223.43,
+            "end_time": 223.68,
+            "duration": 0.25,
+            "audio_file": "526_か.wav"
+        },
+        {
+            "id": "527",
+            "kana": "い",
+            "start_time": 223.68,
+            "end_time": 223.8,
+            "duration": 0.12,
+            "audio_file": "527_い.wav"
+        },
+        {
+            "id": "528",
+            "kana": "に",
+            "start_time": 223.8,
+            "end_time": 223.97,
+            "duration": 0.17,
+            "audio_file": "528_に.wav"
+        },
+        {
+            "id": "529",
+            "kana": "も",
+            "start_time": 223.97,
+            "end_time": 224.04,
+            "duration": 0.07,
+            "audio_file": "529_も.wav"
+        },
+        {
+            "id": "530",
+            "kana": "な",
+            "start_time": 224.84,
+            "end_time": 224.9,
+            "duration": 0.06,
+            "audio_file": "530_な.wav"
+        },
+        {
+            "id": "531",
+            "kana": "に",
+            "start_time": 224.9,
+            "end_time": 225.04,
+            "duration": 0.14,
+            "audio_file": "531_に.wav"
+        },
+        {
+            "id": "532",
+            "kana": "か",
+            "start_time": 225.04,
+            "end_time": 225.25,
+            "duration": 0.21,
+            "audio_file": "532_か.wav"
+        },
+        {
+            "id": "533",
+            "kana": "の",
+            "start_time": 225.25,
+            "end_time": 225.46,
+            "duration": 0.21,
+            "audio_file": "533_の.wav"
+        },
+        {
+            "id": "534",
+            "kana": "い",
+            "start_time": 225.46,
+            "end_time": 225.61,
+            "duration": 0.15,
+            "audio_file": "534_い.wav"
+        },
+        {
+            "id": "535",
+            "kana": "み",
+            "start_time": 225.61,
+            "end_time": 225.8,
+            "duration": 0.19,
+            "audio_file": "535_み.wav"
+        },
+        {
+            "id": "536",
+            "kana": "は",
+            "start_time": 225.8,
+            "end_time": 225.97,
+            "duration": 0.17,
+            "audio_file": "536_は.wav"
+        },
+        {
+            "id": "537",
+            "kana": "き",
+            "start_time": 225.97,
+            "end_time": 226.16,
+            "duration": 0.19,
+            "audio_file": "537_き.wav"
+        },
+        {
+            "id": "538",
+            "kana": "っ",
+            "start_time": 226.16,
+            "end_time": 226.31,
+            "duration": 0.15,
+            "audio_file": "538_っ.wav"
+        },
+        {
+            "id": "539",
+            "kana": "と",
+            "start_time": 226.31,
+            "end_time": 226.67,
+            "duration": 0.36,
+            "audio_file": "539_と.wav"
+        },
+        {
+            "id": "540",
+            "kana": "あ",
+            "start_time": 226.67,
+            "end_time": 226.81,
+            "duration": 0.14,
+            "audio_file": "540_あ.wav"
+        },
+        {
+            "id": "541",
+            "kana": "っ",
+            "start_time": 226.81,
+            "end_time": 226.84,
+            "duration": 0.03,
+            "audio_file": "541_っ.wav"
+        },
+        {
+            "id": "542",
+            "kana": "て",
+            "start_time": 226.84,
+            "end_time": 227.19,
+            "duration": 0.35,
+            "audio_file": "542_て.wav"
+        },
+        {
+            "id": "543",
+            "kana": "で",
+            "start_time": 227.19,
+            "end_time": 227.31,
+            "duration": 0.12,
+            "audio_file": "543_で.wav"
+        },
+        {
+            "id": "544",
+            "kana": "も",
+            "start_time": 227.31,
+            "end_time": 227.52,
+            "duration": 0.21,
+            "audio_file": "544_も.wav"
+        },
+        {
+            "id": "545",
+            "kana": "き",
+            "start_time": 227.52,
+            "end_time": 227.74,
+            "duration": 0.22,
+            "audio_file": "545_き.wav"
+        },
+        {
+            "id": "546",
+            "kana": "み",
+            "start_time": 227.74,
+            "end_time": 227.95,
+            "duration": 0.21,
+            "audio_file": "546_み.wav"
+        },
+        {
+            "id": "547",
+            "kana": "の",
+            "start_time": 227.95,
+            "end_time": 228.13,
+            "duration": 0.18,
+            "audio_file": "547_の.wav"
+        },
+        {
+            "id": "548",
+            "kana": "い",
+            "start_time": 228.13,
+            "end_time": 228.28,
+            "duration": 0.15,
+            "audio_file": "548_い.wav"
+        },
+        {
+            "id": "549",
+            "kana": "な",
+            "start_time": 228.28,
+            "end_time": 228.53,
+            "duration": 0.25,
+            "audio_file": "549_な.wav"
+        },
+        {
+            "id": "550",
+            "kana": "い",
+            "start_time": 228.53,
+            "end_time": 228.63,
+            "duration": 0.1,
+            "audio_file": "550_い.wav"
+        },
+        {
+            "id": "551",
+            "kana": "せ",
+            "start_time": 228.89,
+            "end_time": 229.12,
+            "duration": 0.23,
+            "audio_file": "551_せ.wav"
+        },
+        {
+            "id": "552",
+            "kana": "か",
+            "start_time": 229.12,
+            "end_time": 229.38,
+            "duration": 0.26,
+            "audio_file": "552_か.wav"
+        },
+        {
+            "id": "553",
+            "kana": "い",
+            "start_time": 229.38,
+            "end_time": 229.5,
+            "duration": 0.12,
+            "audio_file": "553_い.wav"
+        },
+        {
+            "id": "554",
+            "kana": "な",
+            "start_time": 229.5,
+            "end_time": 229.68,
+            "duration": 0.18,
+            "audio_file": "554_な.wav"
+        },
+        {
+            "id": "555",
+            "kana": "ど",
+            "start_time": 229.68,
+            "end_time": 230.05,
+            "duration": 0.37,
+            "audio_file": "555_ど.wav"
+        },
+        {
+            "id": "556",
+            "kana": "な",
+            "start_time": 230.05,
+            "end_time": 230.24,
+            "duration": 0.19,
+            "audio_file": "556_な.wav"
+        },
+        {
+            "id": "557",
+            "kana": "つ",
+            "start_time": 230.24,
+            "end_time": 230.4,
+            "duration": 0.16,
+            "audio_file": "557_つ.wav"
+        },
+        {
+            "id": "558",
+            "kana": "や",
+            "start_time": 230.4,
+            "end_time": 230.58,
+            "duration": 0.18,
+            "audio_file": "558_や.wav"
+        },
+        {
+            "id": "559",
+            "kana": "す",
+            "start_time": 230.58,
+            "end_time": 230.76,
+            "duration": 0.18,
+            "audio_file": "559_す.wav"
+        },
+        {
+            "id": "560",
+            "kana": "み",
+            "start_time": 230.76,
+            "end_time": 230.94,
+            "duration": 0.18,
+            "audio_file": "560_み.wav"
+        },
+        {
+            "id": "561",
+            "kana": "の",
+            "start_time": 230.94,
+            "end_time": 231.12,
+            "duration": 0.18,
+            "audio_file": "561_の.wav"
+        },
+        {
+            "id": "562",
+            "kana": "な",
+            "start_time": 231.12,
+            "end_time": 231.34,
+            "duration": 0.22,
+            "audio_file": "562_な.wav"
+        },
+        {
+            "id": "563",
+            "kana": "い",
+            "start_time": 231.34,
+            "end_time": 231.47,
+            "duration": 0.13,
+            "audio_file": "563_い.wav"
+        },
+        {
+            "id": "564",
+            "kana": "は",
+            "start_time": 231.47,
+            "end_time": 238.63,
+            "duration": 7.16,
+            "audio_file": "564_は.wav"
+        },
+        {
+            "id": "565",
+            "kana": "ち",
+            "start_time": 238.66,
+            "end_time": 238.69,
+            "duration": 0.03,
+            "audio_file": "565_ち.wav"
+        },
+        {
+            "id": "566",
+            "kana": "が",
+            "start_time": 238.69,
+            "end_time": 238.96,
+            "duration": 0.27,
+            "audio_file": "566_が.wav"
+        },
+        {
+            "id": "567",
+            "kana": "つ",
+            "start_time": 238.99,
+            "end_time": 239.02,
+            "duration": 0.03,
+            "audio_file": "567_つ.wav"
+        },
+        {
+            "id": "568",
+            "kana": "の",
+            "start_time": 239.02,
+            "end_time": 239.08,
+            "duration": 0.06,
+            "audio_file": "568_の.wav"
+        },
+        {
+            "id": "569",
+            "kana": "よ",
+            "start_time": 239.08,
+            "end_time": 239.14,
+            "duration": 0.06,
+            "audio_file": "569_よ.wav"
+        },
+        {
+            "id": "570",
+            "kana": "う",
+            "start_time": 239.14,
+            "end_time": 239.17,
+            "duration": 0.03,
+            "audio_file": "570_う.wav"
+        },
+        {
+            "id": "571",
+            "kana": "き",
+            "start_time": 239.17,
+            "end_time": 239.2,
+            "duration": 0.03,
+            "audio_file": "571_き.wav"
+        },
+        {
+            "id": "572",
+            "kana": "み",
+            "start_time": 239.2,
+            "end_time": 239.35,
+            "duration": 0.15,
+            "audio_file": "572_み.wav"
+        },
+        {
+            "id": "573",
+            "kana": "の",
+            "start_time": 239.35,
+            "end_time": 239.56,
+            "duration": 0.21,
+            "audio_file": "573_の.wav"
+        },
+        {
+            "id": "574",
+            "kana": "い",
+            "start_time": 239.56,
+            "end_time": 239.71,
+            "duration": 0.15,
+            "audio_file": "574_い.wav"
+        },
+        {
+            "id": "575",
+            "kana": "な",
+            "start_time": 239.71,
+            "end_time": 239.98,
+            "duration": 0.27,
+            "audio_file": "575_な.wav"
+        },
+        {
+            "id": "576",
+            "kana": "い",
+            "start_time": 239.98,
+            "end_time": 240.08,
+            "duration": 0.1,
+            "audio_file": "576_い.wav"
+        },
+        {
+            "id": "577",
+            "kana": "せ",
+            "start_time": 240.32,
+            "end_time": 240.56,
+            "duration": 0.24,
+            "audio_file": "577_せ.wav"
+        },
+        {
+            "id": "578",
+            "kana": "か",
+            "start_time": 240.56,
+            "end_time": 240.78,
+            "duration": 0.22,
+            "audio_file": "578_か.wav"
+        },
+        {
+            "id": "579",
+            "kana": "い",
+            "start_time": 240.78,
+            "end_time": 240.92,
+            "duration": 0.14,
+            "audio_file": "579_い.wav"
+        },
+        {
+            "id": "580",
+            "kana": "な",
+            "start_time": 240.92,
+            "end_time": 241.11,
+            "duration": 0.19,
+            "audio_file": "580_な.wav"
+        },
+        {
+            "id": "581",
+            "kana": "ど",
+            "start_time": 241.11,
+            "end_time": 241.17,
+            "duration": 0.06,
+            "audio_file": "581_ど.wav"
+        },
+        {
+            "id": "582",
+            "kana": "わ",
+            "start_time": 241.17,
+            "end_time": 243.87,
+            "duration": 2.7,
+            "audio_file": "582_わ.wav"
+        },
+        {
+            "id": "583",
+            "kana": "ら",
+            "start_time": 243.87,
+            "end_time": 244.03,
+            "duration": 0.16,
+            "audio_file": "583_ら.wav"
+        },
+        {
+            "id": "584",
+            "kana": "う",
+            "start_time": 261.26,
+            "end_time": 261.29,
+            "duration": 0.03,
+            "audio_file": "584_う.wav"
+        },
+        {
+            "id": "585",
+            "kana": "こ",
+            "start_time": 266.05,
+            "end_time": 271.53,
+            "duration": 5.48,
+            "audio_file": "585_こ.wav"
+        },
+        {
+            "id": "586",
+            "kana": "と",
+            "start_time": 272.75,
+            "end_time": 272.81,
+            "duration": 0.06,
+            "audio_file": "586_と.wav"
+        },
+        {
+            "id": "587",
+            "kana": "な",
+            "start_time": 272.81,
+            "end_time": 272.89,
+            "duration": 0.08,
+            "audio_file": "587_な.wav"
+        },
+        {
+            "id": "588",
+            "kana": "い",
+            "start_time": 272.89,
+            "end_time": 272.92,
+            "duration": 0.03,
+            "audio_file": "588_い.wav"
+        },
+        {
+            "id": "589",
+            "kana": "さ",
+            "start_time": 272.92,
+            "end_time": 273.17,
+            "duration": 0.25,
+            "audio_file": "589_さ.wav"
+        },
+        {
+            "id": "590",
+            "kana": "ん",
+            "start_time": 273.17,
+            "end_time": 273.2,
+            "duration": 0.03,
+            "audio_file": "590_ん.wav"
+        },
+        {
+            "id": "591",
+            "kana": "た",
+            "start_time": 273.2,
+            "end_time": 273.5,
+            "duration": 0.3,
+            "audio_file": "591_た.wav"
+        },
+        {
+            "id": "592",
+            "kana": "の",
+            "start_time": 273.56,
+            "end_time": 274.21,
+            "duration": 0.65,
+            "audio_file": "592_の.wav"
+        },
+        {
+            "id": "593",
+            "kana": "よ",
+            "start_time": 274.21,
+            "end_time": 274.66,
+            "duration": 0.45,
+            "audio_file": "593_よ.wav"
+        },
+        {
+            "id": "594",
+            "kana": "う",
+            "start_time": 274.75,
+            "end_time": 274.81,
+            "duration": 0.06,
+            "audio_file": "594_う.wav"
+        },
+        {
+            "id": "595",
+            "kana": "き",
+            "start_time": 274.81,
+            "end_time": 274.93,
+            "duration": 0.12,
+            "audio_file": "595_き.wav"
+        },
+        {
+            "id": "596",
+            "kana": "み",
+            "start_time": 274.93,
+            "end_time": 275.04,
+            "duration": 0.11,
+            "audio_file": "596_み.wav"
+        },
+        {
+            "id": "597",
+            "kana": "の",
+            "start_time": 275.04,
+            "end_time": 275.1,
+            "duration": 0.06,
+            "audio_file": "597_の.wav"
+        },
+        {
+            "id": "598",
+            "kana": "い",
+            "start_time": 275.1,
+            "end_time": 275.13,
+            "duration": 0.03,
+            "audio_file": "598_い.wav"
+        },
+        {
+            "id": "599",
+            "kana": "な",
+            "start_time": 275.13,
+            "end_time": 275.38,
+            "duration": 0.25,
+            "audio_file": "599_な.wav"
+        },
+        {
+            "id": "600",
+            "kana": "い",
+            "start_time": 275.38,
+            "end_time": 275.41,
+            "duration": 0.03,
+            "audio_file": "600_い.wav"
+        },
+        {
+            "id": "601",
+            "kana": "せ",
+            "start_time": 275.91,
+            "end_time": 276.14,
+            "duration": 0.23,
+            "audio_file": "601_せ.wav"
+        },
+        {
+            "id": "602",
+            "kana": "か",
+            "start_time": 276.14,
+            "end_time": 276.42,
+            "duration": 0.28,
+            "audio_file": "602_か.wav"
+        },
+        {
+            "id": "603",
+            "kana": "い",
+            "start_time": 276.42,
+            "end_time": 276.46,
+            "duration": 0.04,
+            "audio_file": "603_い.wav"
+        },
+        {
+            "id": "604",
+            "kana": "な",
+            "start_time": 276.46,
+            "end_time": 276.65,
+            "duration": 0.19,
+            "audio_file": "604_な.wav"
+        },
+        {
+            "id": "605",
+            "kana": "ど",
+            "start_time": 276.65,
+            "end_time": 276.72,
+            "duration": 0.07,
+            "audio_file": "605_ど.wav"
+        },
+        {
+            "id": "606",
+            "kana": "ぼ",
+            "start_time": 276.72,
+            "end_time": 276.78,
+            "duration": 0.06,
+            "audio_file": "606_ぼ.wav"
+        },
+        {
+            "id": "607",
+            "kana": "く",
+            "start_time": 276.78,
+            "end_time": 276.84,
+            "duration": 0.06,
+            "audio_file": "607_く.wav"
+        },
+        {
+            "id": "608",
+            "kana": "ら",
+            "start_time": 276.84,
+            "end_time": 276.9,
+            "duration": 0.06,
+            "audio_file": "608_ら.wav"
+        },
+        {
+            "id": "609",
+            "kana": "た",
+            "start_time": 276.9,
+            "end_time": 277.05,
+            "duration": 0.15,
+            "audio_file": "609_た.wav"
+        },
+        {
+            "id": "610",
+            "kana": "い",
+            "start_time": 277.05,
+            "end_time": 277.16,
+            "duration": 0.11,
+            "audio_file": "610_い.wav"
+        },
+        {
+            "id": "611",
+            "kana": "む",
+            "start_time": 277.16,
+            "end_time": 277.23,
+            "duration": 0.07,
+            "audio_file": "611_む.wav"
+        },
+        {
+            "id": "612",
+            "kana": "ふ",
+            "start_time": 277.23,
+            "end_time": 277.29,
+            "duration": 0.06,
+            "audio_file": "612_ふ.wav"
+        },
+        {
+            "id": "613",
+            "kana": "ら",
+            "start_time": 277.29,
+            "end_time": 277.37,
+            "duration": 0.08,
+            "audio_file": "613_ら.wav"
+        },
+        {
+            "id": "614",
+            "kana": "い",
+            "start_time": 277.37,
+            "end_time": 277.4,
+            "duration": 0.03,
+            "audio_file": "614_い.wav"
+        },
+        {
+            "id": "615",
+            "kana": "や",
+            "start_time": 277.4,
+            "end_time": 277.5,
+            "duration": 0.1,
+            "audio_file": "615_や.wav"
+        },
+        {
+            "id": "616",
+            "kana": "と",
+            "start_time": 277.5,
+            "end_time": 277.66,
+            "duration": 0.16,
+            "audio_file": "616_と.wav"
+        },
+        {
+            "id": "617",
+            "kana": "き",
+            "start_time": 277.66,
+            "end_time": 277.9,
+            "duration": 0.24,
+            "audio_file": "617_き.wav"
+        },
+        {
+            "id": "618",
+            "kana": "を",
+            "start_time": 277.9,
+            "end_time": 277.93,
+            "duration": 0.03,
+            "audio_file": "618_を.wav"
+        },
+        {
+            "id": "619",
+            "kana": "か",
+            "start_time": 277.93,
+            "end_time": 278.39,
+            "duration": 0.46,
+            "audio_file": "619_か.wav"
+        },
+        {
+            "id": "620",
+            "kana": "け",
+            "start_time": 278.45,
+            "end_time": 278.51,
+            "duration": 0.06,
+            "audio_file": "620_け.wav"
+        },
+        {
+            "id": "621",
+            "kana": "あ",
+            "start_time": 278.6,
+            "end_time": 278.63,
+            "duration": 0.03,
+            "audio_file": "621_あ.wav"
+        },
+        {
+            "id": "622",
+            "kana": "が",
+            "start_time": 278.63,
+            "end_time": 278.69,
+            "duration": 0.06,
+            "audio_file": "622_が.wav"
+        },
+        {
+            "id": "623",
+            "kana": "る",
+            "start_time": 278.69,
+            "end_time": 278.75,
+            "duration": 0.06,
+            "audio_file": "623_る.wav"
+        },
+        {
+            "id": "624",
+            "kana": "く",
+            "start_time": 278.75,
+            "end_time": 278.98,
+            "duration": 0.23,
+            "audio_file": "624_く.wav"
+        },
+        {
+            "id": "625",
+            "kana": "ら",
+            "start_time": 278.98,
+            "end_time": 279.38,
+            "duration": 0.4,
+            "audio_file": "625_ら.wav"
+        },
+        {
+            "id": "626",
+            "kana": "い",
+            "start_time": 279.38,
+            "end_time": 279.41,
+            "duration": 0.03,
+            "audio_file": "626_い.wav"
+        },
+        {
+            "id": "627",
+            "kana": "ま",
+            "start_time": 279.41,
+            "end_time": 279.6,
+            "duration": 0.19,
+            "audio_file": "627_ま.wav"
+        },
+        {
+            "id": "628",
+            "kana": "と",
+            "start_time": 279.6,
+            "end_time": 279.66,
+            "duration": 0.06,
+            "audio_file": "628_と.wav"
+        },
+        {
+            "id": "629",
+            "kana": "き",
+            "start_time": 279.66,
+            "end_time": 279.69,
+            "duration": 0.03,
+            "audio_file": "629_き.wav"
+        },
+        {
+            "id": "630",
+            "kana": "の",
+            "start_time": 279.69,
+            "end_time": 279.75,
+            "duration": 0.06,
+            "audio_file": "630_の.wav"
+        },
+        {
+            "id": "631",
+            "kana": "か",
+            "start_time": 279.75,
+            "end_time": 279.87,
+            "duration": 0.12,
+            "audio_file": "631_か.wav"
+        },
+        {
+            "id": "632",
+            "kana": "く",
+            "start_time": 279.87,
+            "end_time": 280.05,
+            "duration": 0.18,
+            "audio_file": "632_く.wav"
+        },
+        {
+            "id": "633",
+            "kana": "れ",
+            "start_time": 280.05,
+            "end_time": 280.49,
+            "duration": 0.44,
+            "audio_file": "633_れ.wav"
+        },
+        {
+            "id": "634",
+            "kana": "ん",
+            "start_time": 280.49,
+            "end_time": 280.54,
+            "duration": 0.05,
+            "audio_file": "634_ん.wav"
+        },
+        {
+            "id": "635",
+            "kana": "ぼ",
+            "start_time": 280.79,
+            "end_time": 281.2,
+            "duration": 0.41,
+            "audio_file": "635_ぼ.wav"
+        },
+        {
+            "id": "636",
+            "kana": "は",
+            "start_time": 281.2,
+            "end_time": 281.26,
+            "duration": 0.06,
+            "audio_file": "636_は.wav"
+        },
+        {
+            "id": "637",
+            "kana": "ぐ",
+            "start_time": 281.26,
+            "end_time": 281.32,
+            "duration": 0.06,
+            "audio_file": "637_ぐ.wav"
+        },
+        {
+            "id": "638",
+            "kana": "れ",
+            "start_time": 281.32,
+            "end_time": 281.38,
+            "duration": 0.06,
+            "audio_file": "638_れ.wav"
+        },
+        {
+            "id": "639",
+            "kana": "っ",
+            "start_time": 281.41,
+            "end_time": 281.44,
+            "duration": 0.03,
+            "audio_file": "639_っ.wav"
+        },
+        {
+            "id": "640",
+            "kana": "こ",
+            "start_time": 282.13,
+            "end_time": 282.22,
+            "duration": 0.09,
+            "audio_file": "640_こ.wav"
+        },
+        {
+            "id": "641",
+            "kana": "は",
+            "start_time": 282.22,
+            "end_time": 282.45,
+            "duration": 0.23,
+            "audio_file": "641_は.wav"
+        },
+        {
+            "id": "642",
+            "kana": "も",
+            "start_time": 282.45,
+            "end_time": 282.91,
+            "duration": 0.46,
+            "audio_file": "642_も.wav"
+        },
+        {
+            "id": "643",
+            "kana": "う",
+            "start_time": 282.91,
+            "end_time": 282.98,
+            "duration": 0.07,
+            "audio_file": "643_う.wav"
+        },
+        {
+            "id": "644",
+            "kana": "い",
+            "start_time": 282.98,
+            "end_time": 283.05,
+            "duration": 0.07,
+            "audio_file": "644_い.wav"
+        },
+        {
+            "id": "645",
+            "kana": "や",
+            "start_time": 283.05,
+            "end_time": 283.15,
+            "duration": 0.1,
+            "audio_file": "645_や.wav"
+        },
+        {
+            "id": "646",
+            "kana": "な",
+            "start_time": 284.29,
+            "end_time": 284.55,
+            "duration": 0.26,
+            "audio_file": "646_な.wav"
+        },
+        {
+            "id": "647",
+            "kana": "ん",
+            "start_time": 284.55,
+            "end_time": 284.69,
+            "duration": 0.14,
+            "audio_file": "647_ん.wav"
+        },
+        {
+            "id": "648",
+            "kana": "だ",
+            "start_time": 284.69,
+            "end_time": 285.23,
+            "duration": 0.54,
+            "audio_file": "648_だ.wav"
+        },
+        {
+            "id": "649",
+            "kana": "な",
+            "start_time": 285.23,
+            "end_time": 285.39,
+            "duration": 0.16,
+            "audio_file": "649_な.wav"
+        },
+        {
+            "id": "650",
+            "kana": "ん",
+            "start_time": 285.39,
+            "end_time": 285.42,
+            "duration": 0.03,
+            "audio_file": "650_ん.wav"
+        },
+        {
+            "id": "651",
+            "kana": "で",
+            "start_time": 285.42,
+            "end_time": 285.48,
+            "duration": 0.06,
+            "audio_file": "651_で.wav"
+        },
+        {
+            "id": "652",
+            "kana": "も",
+            "start_time": 285.48,
+            "end_time": 285.54,
+            "duration": 0.06,
+            "audio_file": "652_も.wav"
+        },
+        {
+            "id": "653",
+            "kana": "な",
+            "start_time": 285.54,
+            "end_time": 285.64,
+            "duration": 0.1,
+            "audio_file": "653_な.wav"
+        },
+        {
+            "id": "654",
+            "kana": "い",
+            "start_time": 285.64,
+            "end_time": 285.74,
+            "duration": 0.1,
+            "audio_file": "654_い.wav"
+        },
+        {
+            "id": "655",
+            "kana": "や",
+            "start_time": 285.74,
+            "end_time": 286.03,
+            "duration": 0.29,
+            "audio_file": "655_や.wav"
+        },
+        {
+            "id": "656",
+            "kana": "や",
+            "start_time": 286.03,
+            "end_time": 286.29,
+            "duration": 0.26,
+            "audio_file": "656_や.wav"
+        },
+        {
+            "id": "657",
+            "kana": "っ",
+            "start_time": 286.29,
+            "end_time": 286.35,
+            "duration": 0.06,
+            "audio_file": "657_っ.wav"
+        },
+        {
+            "id": "658",
+            "kana": "ぱ",
+            "start_time": 286.47,
+            "end_time": 286.66,
+            "duration": 0.19,
+            "audio_file": "658_ぱ.wav"
+        },
+        {
+            "id": "659",
+            "kana": "り",
+            "start_time": 286.66,
+            "end_time": 286.83,
+            "duration": 0.17,
+            "audio_file": "659_り.wav"
+        },
+        {
+            "id": "660",
+            "kana": "な",
+            "start_time": 286.83,
+            "end_time": 287.08,
+            "duration": 0.25,
+            "audio_file": "660_な.wav"
+        },
+        {
+            "id": "661",
+            "kana": "ん",
+            "start_time": 287.08,
+            "end_time": 287.17,
+            "duration": 0.09,
+            "audio_file": "661_ん.wav"
+        },
+        {
+            "id": "662",
+            "kana": "で",
+            "start_time": 287.17,
+            "end_time": 287.35,
+            "duration": 0.18,
+            "audio_file": "662_で.wav"
+        },
+        {
+            "id": "663",
+            "kana": "も",
+            "start_time": 287.35,
+            "end_time": 287.53,
+            "duration": 0.18,
+            "audio_file": "663_も.wav"
+        },
+        {
+            "id": "664",
+            "kana": "な",
+            "start_time": 287.53,
+            "end_time": 287.76,
+            "duration": 0.23,
+            "audio_file": "664_な.wav"
+        },
+        {
+            "id": "665",
+            "kana": "い",
+            "start_time": 287.76,
+            "end_time": 287.89,
+            "duration": 0.13,
+            "audio_file": "665_い.wav"
+        },
+        {
+            "id": "666",
+            "kana": "や",
+            "start_time": 287.89,
+            "end_time": 288.18,
+            "duration": 0.29,
+            "audio_file": "666_や.wav"
+        },
+        {
+            "id": "667",
+            "kana": "い",
+            "start_time": 288.62,
+            "end_time": 288.77,
+            "duration": 0.15,
+            "audio_file": "667_い.wav"
+        },
+        {
+            "id": "668",
+            "kana": "ま",
+            "start_time": 288.77,
+            "end_time": 288.94,
+            "duration": 0.17,
+            "audio_file": "668_ま.wav"
+        },
+        {
+            "id": "669",
+            "kana": "か",
+            "start_time": 288.94,
+            "end_time": 289.05,
+            "duration": 0.11,
+            "audio_file": "669_か.wav"
+        },
+        {
+            "id": "670",
+            "kana": "ら",
+            "start_time": 289.05,
+            "end_time": 289.7,
+            "duration": 0.65,
+            "audio_file": "670_ら.wav"
+        },
+        {
+            "id": "671",
+            "kana": "い",
+            "start_time": 289.7,
+            "end_time": 289.79,
+            "duration": 0.09,
+            "audio_file": "671_い.wav"
+        },
+        {
+            "id": "672",
+            "kana": "く",
+            "start_time": 289.79,
+            "end_time": 289.95,
+            "duration": 0.16,
+            "audio_file": "672_く.wav"
+        },
+        {
+            "id": "673",
+            "kana": "よ",
+            "start_time": 289.95,
+            "end_time": 290.02,
+            "duration": 0.07,
+            "audio_file": "673_よ.wav"
+        },
+        {
+            "id": "674",
+            "kana": "ぼ",
+            "start_time": 293.27,
+            "end_time": 293.41,
+            "duration": 0.14,
+            "audio_file": "674_ぼ.wav"
+        },
+        {
+            "id": "675",
+            "kana": "く",
+            "start_time": 293.41,
+            "end_time": 293.61,
+            "duration": 0.2,
+            "audio_file": "675_く.wav"
+        },
+        {
+            "id": "676",
+            "kana": "ら",
+            "start_time": 293.61,
+            "end_time": 293.94,
+            "duration": 0.33,
+            "audio_file": "676_ら.wav"
+        },
+        {
+            "id": "677",
+            "kana": "た",
+            "start_time": 293.94,
+            "end_time": 294.39,
+            "duration": 0.45,
+            "audio_file": "677_た.wav"
+        },
+        {
+            "id": "678",
+            "kana": "い",
+            "start_time": 294.39,
+            "end_time": 294.45,
+            "duration": 0.06,
+            "audio_file": "678_い.wav"
+        },
+        {
+            "id": "679",
+            "kana": "む",
+            "start_time": 294.45,
+            "end_time": 294.51,
+            "duration": 0.06,
+            "audio_file": "679_む.wav"
+        },
+        {
+            "id": "680",
+            "kana": "ふ",
+            "start_time": 294.51,
+            "end_time": 294.69,
+            "duration": 0.18,
+            "audio_file": "680_ふ.wav"
+        },
+        {
+            "id": "681",
+            "kana": "ら",
+            "start_time": 294.69,
+            "end_time": 294.89,
+            "duration": 0.2,
+            "audio_file": "681_ら.wav"
+        },
+        {
+            "id": "682",
+            "kana": "い",
+            "start_time": 294.89,
+            "end_time": 295.03,
+            "duration": 0.14,
+            "audio_file": "682_い.wav"
+        },
+        {
+            "id": "683",
+            "kana": "や",
+            "start_time": 295.03,
+            "end_time": 295.35,
+            "duration": 0.32,
+            "audio_file": "683_や.wav"
+        },
+        {
+            "id": "684",
+            "kana": "と",
+            "start_time": 295.41,
+            "end_time": 295.51,
+            "duration": 0.1,
+            "audio_file": "684_と.wav"
+        },
+        {
+            "id": "685",
+            "kana": "き",
+            "start_time": 295.51,
+            "end_time": 295.74,
+            "duration": 0.23,
+            "audio_file": "685_き.wav"
+        },
+        {
+            "id": "686",
+            "kana": "を",
+            "start_time": 295.74,
+            "end_time": 295.77,
+            "duration": 0.03,
+            "audio_file": "686_を.wav"
+        },
+        {
+            "id": "687",
+            "kana": "か",
+            "start_time": 295.77,
+            "end_time": 296.25,
+            "duration": 0.48,
+            "audio_file": "687_か.wav"
+        },
+        {
+            "id": "688",
+            "kana": "け",
+            "start_time": 296.64,
+            "end_time": 296.89,
+            "duration": 0.25,
+            "audio_file": "688_け.wav"
+        },
+        {
+            "id": "689",
+            "kana": "あ",
+            "start_time": 296.89,
+            "end_time": 297.2,
+            "duration": 0.31,
+            "audio_file": "689_あ.wav"
+        },
+        {
+            "id": "690",
+            "kana": "が",
+            "start_time": 297.2,
+            "end_time": 297.37,
+            "duration": 0.17,
+            "audio_file": "690_が.wav"
+        },
+        {
+            "id": "691",
+            "kana": "る",
+            "start_time": 297.37,
+            "end_time": 297.5,
+            "duration": 0.13,
+            "audio_file": "691_る.wav"
+        },
+        {
+            "id": "692",
+            "kana": "く",
+            "start_time": 297.5,
+            "end_time": 297.57,
+            "duration": 0.07,
+            "audio_file": "692_く.wav"
+        },
+        {
+            "id": "693",
+            "kana": "ら",
+            "start_time": 297.57,
+            "end_time": 297.76,
+            "duration": 0.19,
+            "audio_file": "693_ら.wav"
+        },
+        {
+            "id": "694",
+            "kana": "い",
+            "start_time": 297.76,
+            "end_time": 297.87,
+            "duration": 0.11,
+            "audio_file": "694_い.wav"
+        },
+        {
+            "id": "695",
+            "kana": "ま",
+            "start_time": 297.87,
+            "end_time": 298.22,
+            "duration": 0.35,
+            "audio_file": "695_ま.wav"
+        },
+        {
+            "id": "696",
+            "kana": "と",
+            "start_time": 298.22,
+            "end_time": 298.36,
+            "duration": 0.14,
+            "audio_file": "696_と.wav"
+        },
+        {
+            "id": "697",
+            "kana": "き",
+            "start_time": 298.36,
+            "end_time": 298.64,
+            "duration": 0.28,
+            "audio_file": "697_き.wav"
+        },
+        {
+            "id": "698",
+            "kana": "の",
+            "start_time": 298.64,
+            "end_time": 299.04,
+            "duration": 0.4,
+            "audio_file": "698_の.wav"
+        },
+        {
+            "id": "699",
+            "kana": "か",
+            "start_time": 299.34,
+            "end_time": 299.45,
+            "duration": 0.11,
+            "audio_file": "699_か.wav"
+        },
+        {
+            "id": "700",
+            "kana": "く",
+            "start_time": 299.45,
+            "end_time": 299.7,
+            "duration": 0.25,
+            "audio_file": "700_く.wav"
+        },
+        {
+            "id": "701",
+            "kana": "れ",
+            "start_time": 299.7,
+            "end_time": 300.11,
+            "duration": 0.41,
+            "audio_file": "701_れ.wav"
+        },
+        {
+            "id": "702",
+            "kana": "ん",
+            "start_time": 300.11,
+            "end_time": 300.24,
+            "duration": 0.13,
+            "audio_file": "702_ん.wav"
+        },
+        {
+            "id": "703",
+            "kana": "ぼ",
+            "start_time": 300.24,
+            "end_time": 300.3,
+            "duration": 0.06,
+            "audio_file": "703_ぼ.wav"
+        },
+        {
+            "id": "704",
+            "kana": "は",
+            "start_time": 300.3,
+            "end_time": 300.6,
+            "duration": 0.3,
+            "audio_file": "704_は.wav"
+        },
+        {
+            "id": "705",
+            "kana": "ぐ",
+            "start_time": 300.6,
+            "end_time": 300.78,
+            "duration": 0.18,
+            "audio_file": "705_ぐ.wav"
+        },
+        {
+            "id": "706",
+            "kana": "れ",
+            "start_time": 300.78,
+            "end_time": 300.84,
+            "duration": 0.06,
+            "audio_file": "706_れ.wav"
+        },
+        {
+            "id": "707",
+            "kana": "っ",
+            "start_time": 300.84,
+            "end_time": 300.87,
+            "duration": 0.03,
+            "audio_file": "707_っ.wav"
+        },
+        {
+            "id": "708",
+            "kana": "こ",
+            "start_time": 301.5,
+            "end_time": 301.56,
+            "duration": 0.06,
+            "audio_file": "708_こ.wav"
+        },
+        {
+            "id": "709",
+            "kana": "は",
+            "start_time": 301.56,
+            "end_time": 303.89,
+            "duration": 2.33,
+            "audio_file": "709_は.wav"
+        },
+        {
+            "id": "710",
+            "kana": "も",
+            "start_time": 303.92,
+            "end_time": 303.98,
+            "duration": 0.06,
+            "audio_file": "710_も.wav"
+        },
+        {
+            "id": "711",
+            "kana": "う",
+            "start_time": 303.98,
+            "end_time": 304.05,
+            "duration": 0.07,
+            "audio_file": "711_う.wav"
+        },
+        {
+            "id": "712",
+            "kana": "い",
+            "start_time": 304.05,
+            "end_time": 304.31,
+            "duration": 0.26,
+            "audio_file": "712_い.wav"
+        },
+        {
+            "id": "713",
+            "kana": "い",
+            "start_time": 304.31,
+            "end_time": 304.37,
+            "duration": 0.06,
+            "audio_file": "713_い.wav"
+        },
+        {
+            "id": "714",
+            "kana": "よ",
+            "start_time": 304.37,
+            "end_time": 304.68,
+            "duration": 0.31,
+            "audio_file": "714_よ.wav"
+        },
+        {
+            "id": "715",
+            "kana": "き",
+            "start_time": 304.68,
+            "end_time": 304.87,
+            "duration": 0.19,
+            "audio_file": "715_き.wav"
+        },
+        {
+            "id": "716",
+            "kana": "み",
+            "start_time": 304.87,
+            "end_time": 305.05,
+            "duration": 0.18,
+            "audio_file": "716_み.wav"
+        },
+        {
+            "id": "717",
+            "kana": "は",
+            "start_time": 305.05,
+            "end_time": 305.13,
+            "duration": 0.08,
+            "audio_file": "717_は.wav"
+        },
+        {
+            "id": "718",
+            "kana": "は",
+            "start_time": 305.13,
+            "end_time": 305.58,
+            "duration": 0.45,
+            "audio_file": "718_は.wav"
+        },
+        {
+            "id": "719",
+            "kana": "で",
+            "start_time": 305.58,
+            "end_time": 305.75,
+            "duration": 0.17,
+            "audio_file": "719_で.wav"
+        },
+        {
+            "id": "720",
+            "kana": "な",
+            "start_time": 305.75,
+            "end_time": 305.9,
+            "duration": 0.15,
+            "audio_file": "720_な.wav"
+        },
+        {
+            "id": "721",
+            "kana": "く",
+            "start_time": 305.9,
+            "end_time": 306.09,
+            "duration": 0.19,
+            "audio_file": "721_く.wav"
+        },
+        {
+            "id": "722",
+            "kana": "ら",
+            "start_time": 306.09,
+            "end_time": 306.29,
+            "duration": 0.2,
+            "audio_file": "722_ら.wav"
+        },
+        {
+            "id": "723",
+            "kana": "い",
+            "start_time": 306.29,
+            "end_time": 306.46,
+            "duration": 0.17,
+            "audio_file": "723_い.wav"
+        },
+        {
+            "id": "724",
+            "kana": "や",
+            "start_time": 306.46,
+            "end_time": 306.74,
+            "duration": 0.28,
+            "audio_file": "724_や.wav"
+        },
+        {
+            "id": "725",
+            "kana": "そ",
+            "start_time": 306.77,
+            "end_time": 307.03,
+            "duration": 0.26,
+            "audio_file": "725_そ.wav"
+        },
+        {
+            "id": "726",
+            "kana": "の",
+            "start_time": 307.03,
+            "end_time": 307.18,
+            "duration": 0.15,
+            "audio_file": "726_の.wav"
+        },
+        {
+            "id": "727",
+            "kana": "な",
+            "start_time": 307.18,
+            "end_time": 307.35,
+            "duration": 0.17,
+            "audio_file": "727_な.wav"
+        },
+        {
+            "id": "728",
+            "kana": "み",
+            "start_time": 307.35,
+            "end_time": 307.54,
+            "duration": 0.19,
+            "audio_file": "728_み.wav"
+        },
+        {
+            "id": "729",
+            "kana": "だ",
+            "start_time": 307.54,
+            "end_time": 308.17,
+            "duration": 0.63,
+            "audio_file": "729_だ.wav"
+        },
+        {
+            "id": "730",
+            "kana": "と",
+            "start_time": 308.17,
+            "end_time": 308.44,
+            "duration": 0.27,
+            "audio_file": "730_と.wav"
+        },
+        {
+            "id": "731",
+            "kana": "め",
+            "start_time": 308.44,
+            "end_time": 308.6,
+            "duration": 0.16,
+            "audio_file": "731_め.wav"
+        },
+        {
+            "id": "732",
+            "kana": "て",
+            "start_time": 308.6,
+            "end_time": 308.78,
+            "duration": 0.18,
+            "audio_file": "732_て.wav"
+        },
+        {
+            "id": "733",
+            "kana": "み",
+            "start_time": 308.78,
+            "end_time": 308.94,
+            "duration": 0.16,
+            "audio_file": "733_み.wav"
+        },
+        {
+            "id": "734",
+            "kana": "た",
+            "start_time": 308.94,
+            "end_time": 309.19,
+            "duration": 0.25,
+            "audio_file": "734_た.wav"
+        },
+        {
+            "id": "735",
+            "kana": "い",
+            "start_time": 309.19,
+            "end_time": 309.34,
+            "duration": 0.15,
+            "audio_file": "735_い.wav"
+        },
+        {
+            "id": "736",
+            "kana": "な",
+            "start_time": 309.34,
+            "end_time": 309.66,
+            "duration": 0.32,
+            "audio_file": "736_な.wav"
+        },
+        {
+            "id": "737",
+            "kana": "だ",
+            "start_time": 309.66,
+            "end_time": 309.81,
+            "duration": 0.15,
+            "audio_file": "737_だ.wav"
+        },
+        {
+            "id": "738",
+            "kana": "け",
+            "start_time": 309.81,
+            "end_time": 309.93,
+            "duration": 0.12,
+            "audio_file": "738_け.wav"
+        },
+        {
+            "id": "739",
+            "kana": "ど",
+            "start_time": 309.93,
+            "end_time": 310.02,
+            "duration": 0.09,
+            "audio_file": "739_ど.wav"
+        },
+        {
+            "id": "740",
+            "kana": "き",
+            "start_time": 310.02,
+            "end_time": 310.05,
+            "duration": 0.03,
+            "audio_file": "740_き.wav"
+        },
+        {
+            "id": "741",
+            "kana": "み",
+            "start_time": 310.05,
+            "end_time": 310.11,
+            "duration": 0.06,
+            "audio_file": "741_み.wav"
+        },
+        {
+            "id": "742",
+            "kana": "は",
+            "start_time": 310.11,
+            "end_time": 311.65,
+            "duration": 1.54,
+            "audio_file": "742_は.wav"
+        },
+        {
+            "id": "743",
+            "kana": "こ",
+            "start_time": 311.68,
+            "end_time": 311.8,
+            "duration": 0.12,
+            "audio_file": "743_こ.wav"
+        },
+        {
+            "id": "744",
+            "kana": "ば",
+            "start_time": 311.8,
+            "end_time": 312.05,
+            "duration": 0.25,
+            "audio_file": "744_ば.wav"
+        },
+        {
+            "id": "745",
+            "kana": "ん",
+            "start_time": 312.05,
+            "end_time": 312.2,
+            "duration": 0.15,
+            "audio_file": "745_ん.wav"
+        },
+        {
+            "id": "746",
+            "kana": "だ",
+            "start_time": 312.2,
+            "end_time": 312.8,
+            "duration": 0.6,
+            "audio_file": "746_だ.wav"
+        },
+        {
+            "id": "747",
+            "kana": "こ",
+            "start_time": 312.89,
+            "end_time": 313.09,
+            "duration": 0.2,
+            "audio_file": "747_こ.wav"
+        },
+        {
+            "id": "748",
+            "kana": "ぼ",
+            "start_time": 313.09,
+            "end_time": 313.26,
+            "duration": 0.17,
+            "audio_file": "748_ぼ.wav"
+        },
+        {
+            "id": "749",
+            "kana": "れ",
+            "start_time": 313.26,
+            "end_time": 313.46,
+            "duration": 0.2,
+            "audio_file": "749_れ.wav"
+        },
+        {
+            "id": "750",
+            "kana": "る",
+            "start_time": 313.46,
+            "end_time": 313.62,
+            "duration": 0.16,
+            "audio_file": "750_る.wav"
+        },
+        {
+            "id": "751",
+            "kana": "ま",
+            "start_time": 313.62,
+            "end_time": 313.8,
+            "duration": 0.18,
+            "audio_file": "751_ま.wav"
+        },
+        {
+            "id": "752",
+            "kana": "ま",
+            "start_time": 313.8,
+            "end_time": 313.99,
+            "duration": 0.19,
+            "audio_file": "752_ま.wav"
+        },
+        {
+            "id": "753",
+            "kana": "の",
+            "start_time": 313.99,
+            "end_time": 314.16,
+            "duration": 0.17,
+            "audio_file": "753_の.wav"
+        },
+        {
+            "id": "754",
+            "kana": "な",
+            "start_time": 314.16,
+            "end_time": 314.34,
+            "duration": 0.18,
+            "audio_file": "754_な.wav"
+        },
+        {
+            "id": "755",
+            "kana": "み",
+            "start_time": 314.34,
+            "end_time": 314.51,
+            "duration": 0.17,
+            "audio_file": "755_み.wav"
+        },
+        {
+            "id": "756",
+            "kana": "だ",
+            "start_time": 314.51,
+            "end_time": 314.85,
+            "duration": 0.34,
+            "audio_file": "756_だ.wav"
+        },
+        {
+            "id": "757",
+            "kana": "を",
+            "start_time": 314.85,
+            "end_time": 314.88,
+            "duration": 0.03,
+            "audio_file": "757_を.wav"
+        },
+        {
+            "id": "758",
+            "kana": "み",
+            "start_time": 314.88,
+            "end_time": 315.04,
+            "duration": 0.16,
+            "audio_file": "758_み.wav"
+        },
+        {
+            "id": "759",
+            "kana": "て",
+            "start_time": 315.04,
+            "end_time": 315.15,
+            "duration": 0.11,
+            "audio_file": "759_て.wav"
+        },
+        {
+            "id": "760",
+            "kana": "わ",
+            "start_time": 315.15,
+            "end_time": 315.24,
+            "duration": 0.09,
+            "audio_file": "760_わ.wav"
+        },
+        {
+            "id": "761",
+            "kana": "か",
+            "start_time": 315.24,
+            "end_time": 315.3,
+            "duration": 0.06,
+            "audio_file": "761_か.wav"
+        },
+        {
+            "id": "762",
+            "kana": "っ",
+            "start_time": 316.46,
+            "end_time": 316.49,
+            "duration": 0.03,
+            "audio_file": "762_っ.wav"
+        },
+        {
+            "id": "763",
+            "kana": "た",
+            "start_time": 316.49,
+            "end_time": 316.56,
+            "duration": 0.07,
+            "audio_file": "763_た.wav"
+        },
+        {
+            "id": "764",
+            "kana": "う",
+            "start_time": 316.56,
+            "end_time": 316.67,
+            "duration": 0.11,
+            "audio_file": "764_う.wav"
+        },
+        {
+            "id": "765",
+            "kana": "れ",
+            "start_time": 316.67,
+            "end_time": 316.83,
+            "duration": 0.16,
+            "audio_file": "765_れ.wav"
+        },
+        {
+            "id": "766",
+            "kana": "し",
+            "start_time": 316.83,
+            "end_time": 317.06,
+            "duration": 0.23,
+            "audio_file": "766_し.wav"
+        },
+        {
+            "id": "767",
+            "kana": "く",
+            "start_time": 317.06,
+            "end_time": 317.12,
+            "duration": 0.06,
+            "audio_file": "767_く.wav"
+        },
+        {
+            "id": "768",
+            "kana": "て",
+            "start_time": 317.12,
+            "end_time": 317.38,
+            "duration": 0.26,
+            "audio_file": "768_て.wav"
+        },
+        {
+            "id": "769",
+            "kana": "な",
+            "start_time": 317.38,
+            "end_time": 317.54,
+            "duration": 0.16,
+            "audio_file": "769_な.wav"
+        },
+        {
+            "id": "770",
+            "kana": "く",
+            "start_time": 317.54,
+            "end_time": 317.58,
+            "duration": 0.04,
+            "audio_file": "770_く.wav"
+        },
+        {
+            "id": "771",
+            "kana": "の",
+            "start_time": 317.58,
+            "end_time": 317.92,
+            "duration": 0.34,
+            "audio_file": "771_の.wav"
+        },
+        {
+            "id": "772",
+            "kana": "は",
+            "start_time": 317.92,
+            "end_time": 318.2,
+            "duration": 0.28,
+            "audio_file": "772_は.wav"
+        },
+        {
+            "id": "773",
+            "kana": "か",
+            "start_time": 318.2,
+            "end_time": 318.44,
+            "duration": 0.24,
+            "audio_file": "773_か.wav"
+        },
+        {
+            "id": "774",
+            "kana": "な",
+            "start_time": 318.44,
+            "end_time": 318.58,
+            "duration": 0.14,
+            "audio_file": "774_な.wav"
+        },
+        {
+            "id": "775",
+            "kana": "し",
+            "start_time": 318.58,
+            "end_time": 318.81,
+            "duration": 0.23,
+            "audio_file": "775_し.wav"
+        },
+        {
+            "id": "776",
+            "kana": "く",
+            "start_time": 318.81,
+            "end_time": 318.88,
+            "duration": 0.07,
+            "audio_file": "776_く.wav"
+        },
+        {
+            "id": "777",
+            "kana": "て",
+            "start_time": 318.88,
+            "end_time": 319.29,
+            "duration": 0.41,
+            "audio_file": "777_て.wav"
+        },
+        {
+            "id": "778",
+            "kana": "わ",
+            "start_time": 319.29,
+            "end_time": 319.52,
+            "duration": 0.23,
+            "audio_file": "778_わ.wav"
+        },
+        {
+            "id": "779",
+            "kana": "ら",
+            "start_time": 319.52,
+            "end_time": 319.71,
+            "duration": 0.19,
+            "audio_file": "779_ら.wav"
+        },
+        {
+            "id": "780",
+            "kana": "う",
+            "start_time": 319.71,
+            "end_time": 319.91,
+            "duration": 0.2,
+            "audio_file": "780_う.wav"
+        },
+        {
+            "id": "781",
+            "kana": "の",
+            "start_time": 319.91,
+            "end_time": 320.08,
+            "duration": 0.17,
+            "audio_file": "781_の.wav"
+        },
+        {
+            "id": "782",
+            "kana": "は",
+            "start_time": 320.08,
+            "end_time": 320.49,
+            "duration": 0.41,
+            "audio_file": "782_は.wav"
+        },
+        {
+            "id": "783",
+            "kana": "ぼ",
+            "start_time": 320.52,
+            "end_time": 320.58,
+            "duration": 0.06,
+            "audio_file": "783_ぼ.wav"
+        },
+        {
+            "id": "784",
+            "kana": "く",
+            "start_time": 320.58,
+            "end_time": 320.62,
+            "duration": 0.04,
+            "audio_file": "784_く.wav"
+        },
+        {
+            "id": "785",
+            "kana": "の",
+            "start_time": 320.62,
+            "end_time": 320.88,
+            "duration": 0.26,
+            "audio_file": "785_の.wav"
+        },
+        {
+            "id": "786",
+            "kana": "こ",
+            "start_time": 320.88,
+            "end_time": 320.94,
+            "duration": 0.06,
+            "audio_file": "786_こ.wav"
+        },
+        {
+            "id": "787",
+            "kana": "こ",
+            "start_time": 320.94,
+            "end_time": 321.02,
+            "duration": 0.08,
+            "audio_file": "787_こ.wav"
+        },
+        {
+            "id": "788",
+            "kana": "ろ",
+            "start_time": 321.02,
+            "end_time": 321.15,
+            "duration": 0.13,
+            "audio_file": "788_ろ.wav"
+        },
+        {
+            "id": "789",
+            "kana": "が",
+            "start_time": 321.15,
+            "end_time": 321.58,
+            "duration": 0.43,
+            "audio_file": "789_が.wav"
+        },
+        {
+            "id": "790",
+            "kana": "ぼ",
+            "start_time": 321.58,
+            "end_time": 321.65,
+            "duration": 0.07,
+            "audio_file": "790_ぼ.wav"
+        },
+        {
+            "id": "791",
+            "kana": "く",
+            "start_time": 322.9,
+            "end_time": 323.23,
+            "duration": 0.33,
+            "audio_file": "791_く.wav"
+        },
+        {
+            "id": "792",
+            "kana": "を",
+            "start_time": 323.23,
+            "end_time": 323.38,
+            "duration": 0.15,
+            "audio_file": "792_を.wav"
+        },
+        {
+            "id": "793",
+            "kana": "お",
+            "start_time": 323.38,
+            "end_time": 323.47,
+            "duration": 0.09,
+            "audio_file": "793_お.wav"
+        },
+        {
+            "id": "794",
+            "kana": "い",
+            "start_time": 323.47,
+            "end_time": 323.57,
+            "duration": 0.1,
+            "audio_file": "794_い.wav"
+        },
+        {
+            "id": "795",
+            "kana": "こ",
+            "start_time": 323.57,
+            "end_time": 323.83,
+            "duration": 0.26,
+            "audio_file": "795_こ.wav"
+        },
+        {
+            "id": "796",
+            "kana": "し",
+            "start_time": 323.83,
+            "end_time": 323.98,
+            "duration": 0.15,
+            "audio_file": "796_し.wav"
+        },
+        {
+            "id": "797",
+            "kana": "た",
+            "start_time": 323.98,
+            "end_time": 324.21,
+            "duration": 0.23,
+            "audio_file": "797_た.wav"
+        },
+        {
+            "id": "798",
+            "kana": "ん",
+            "start_time": 324.21,
+            "end_time": 324.34,
+            "duration": 0.13,
+            "audio_file": "798_ん.wav"
+        },
+        {
+            "id": "799",
+            "kana": "だ",
+            "start_time": 324.34,
+            "end_time": 324.55,
+            "duration": 0.21,
+            "audio_file": "799_だ.wav"
+        },
+        {
+            "id": "800",
+            "kana": "よ",
+            "start_time": 324.55,
+            "end_time": 324.96,
+            "duration": 0.41,
+            "audio_file": "800_よ.wav"
+        }
+    ]
+}

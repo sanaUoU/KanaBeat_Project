@@ -12,10 +12,10 @@ jobs:
 
     steps:
     - name: Checkout Code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4  # <-- 这里升级成了 v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5  # <-- 这里也升级到最新版
       with:
         python-version: '3.10'
 
@@ -30,7 +30,7 @@ jobs:
         pyinstaller --noconfirm --onedir --windowed --name "KanaBeat" --add-data "game_assets;game_assets/" game.py
 
     - name: Upload Windows Artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # <-- 这里升级成了 v4
       with:
         name: KanaBeat-Windows
         path: dist/KanaBeat/
